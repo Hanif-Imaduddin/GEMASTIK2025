@@ -1,0 +1,25 @@
+{
+  "batches": [
+    {
+      "key_word": "innovation",
+      "year_start": 2014,
+      "year_end": 2025,
+      "save_dir": "./Innovation/",
+      "scraped": true
+    },
+    {
+      "key_word": "artificial intelligence",
+      "year_start": 2014,
+      "year_end": 2018,
+      "save_dir": "./AI/",
+      "scraped": true
+    },
+    {
+      "key_word": "artificial intelligence",
+      "year_start": 2019,
+      "year_end": 2025,
+      "save_dir": "./AI/",
+      "scraped": true
+    }
+  ]
+}
