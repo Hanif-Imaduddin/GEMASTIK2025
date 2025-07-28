@@ -1,0 +1,4962 @@
+{
+    "Institut Pertanian Bogor": {
+        "kota": "Kota Bogor",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Teknologi Bandung": {
+        "kota": "Kota Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Teknologi Sepuluh Nopember": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Airlangga": {
+        "kota": "Kota Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Andalas": {
+        "kota": "Kota Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Brawijaya": {
+        "kota": "Kota Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Diponegoro": {
+        "kota": "Kota Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Gadjah Mada": {
+        "kota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Hasanuddin": {
+        "kota": "Kota Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Indonesia": {
+        "kota": "Kota Depok",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Negeri Malang": {
+        "kota": "Kota Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Negeri Padang": {
+        "kota": "Kota Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Negeri Semarang": {
+        "kota": "Kota Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Negeri Surabaya": {
+        "kota": "Kota Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Negeri Yogyakarta": {
+        "kota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Padjadjaran": {
+        "kota": "Kabupaten Sumedang",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Pendidikan Indonesia": {
+        "kota": "Kota Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Sebelas Maret": {
+        "kota": "Kota Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Sumatera Utara": {
+        "kota": "Kota Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Syiah Kuala": {
+        "kota": "Kota Banda Aceh",
+        "provinsi": "Aceh"
+    },
+    "Universitas Terbuka": {
+        "kota": "Kota Tangerang Selatan",
+        "provinsi": "Banten"
+    },
+    "Institut Seni Budaya Indonesia Aceh": {
+        "kota": "Kota Banda Aceh",
+        "provinsi": "Aceh"
+    },
+    "Institut Seni Budaya Indonesia Bandung": {
+        "kota": "Kota Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Seni Budaya Indonesia Tanah Papua": {
+        "kota": "Kabupaten Jayapura",
+        "provinsi": "Papua"
+    },
+    "Institut Seni Indonesia Denpasar": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "Institut Seni Indonesia Padang Panjang": {
+        "kota": "Kota Padang Panjang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Institut Seni Indonesia Surakarta": {
+        "kota": "Kota Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Institut Seni Indonesia Yogyakarta": {
+        "kota": "Kota Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Institut Teknologi Bacharuddin Jusuf Habibie": {
+        "kota": "Parepare",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Institut Teknologi Kalimantan": {
+        "kota": "Kota Balikpapan",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Institut Teknologi Sumatera": {
+        "kota": "Kabupaten Lampung Selatan",
+        "provinsi": "Lampung"
+    },
+    "Universitas Bangka Belitung": {
+        "kota": "Kabupaten Bangka",
+        "provinsi": "Kepulauan Bangka Belitung"
+    },
+    "Universitas Bengkulu": {
+        "kota": "Kota Bengkulu",
+        "provinsi": "Bengkulu"
+    },
+    "Universitas Borneo Tarakan": {
+        "kota": "Kota Tarakan",
+        "provinsi": "Kalimantan Utara"
+    },
+    "Universitas Cenderawasih": {
+        "kota": "Kota Jayapura",
+        "provinsi": "Papua"
+    },
+    "Universitas Halu Oleo": {
+        "kota": "Kota Kendari",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Universitas Jambi": {
+        "kota": "Kota Jambi",
+        "provinsi": "Jambi"
+    },
+    "Universitas Jember": {
+        "kota": "Kabupaten Jember",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Jenderal Soedirman": {
+        "kota": "Kabupaten Banyumas",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Khairun": {
+        "kota": "Kota Ternate",
+        "provinsi": "Maluku Utara"
+    },
+    "Universitas Lambung Mangkurat": {
+        "kota": "Kota Banjarmasin",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "Universitas Lampung": {
+        "kota": "Kota Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Universitas Malikussaleh": {
+        "kota": "Kabupaten Aceh Utara",
+        "provinsi": "Aceh"
+    },
+    "Universitas Maritim Raja Ali Haji (UMRAH)": {
+        "kota": "Kota Tanjungpinang",
+        "provinsi": "Kepulauan Riau"
+    },
+    "Universitas Mataram": {
+        "kota": "Kota Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Mulawarman": {
+        "kota": "Kota Samarinda",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Universitas Musamus Merauke": {
+        "kota": "Kabupaten Merauke",
+        "provinsi": "Papua Selatan"
+    },
+    "Universitas Negeri Gorontalo": {
+        "kota": "Kota Gorontalo",
+        "provinsi": "Gorontalo"
+    },
+    "Universitas Negeri Jakarta": {
+        "kota": "Kota Jakarta Timur",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Negeri Makassar": {
+        "kota": "Kota Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Negeri Manado": {
+        "kota": "Kota Manado",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Universitas Negeri Medan": {
+        "kota": "Kota Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Nusa Cendana": {
+        "kota": "Kota Kupang",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas Palangka Raya": {
+        "kota": "Kota Palangka Raya",
+        "provinsi": "Kalimantan Tengah"
+    },
+    "Universitas Papua": {
+        "kota": "Kota Manokwari",
+        "provinsi": "Papua Barat"
+    },
+    "Universitas Pattimura": {
+        "kota": "Kota Ambon",
+        "provinsi": "Maluku"
+    },
+    "Universitas Pembangunan Nasional Veteran Jakarta": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Pembangunan Nasional Veteran Jawa Timur": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Pembangunan Nasional Veteran Yogyakarta": {
+        "kota": "Sleman",
+        "provinsi": "DI Yogyakarta"
+    },
+    "Universitas Pendidikan Ganesha": {
+        "kota": "Kota Singaraja",
+        "provinsi": "Bali"
+    },
+    "Universitas Riau": {
+        "kota": "Kota Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "Universitas Sam Ratulangi": {
+        "kota": "Kota Manado",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Universitas Samudra": {
+        "kota": "Kota Langsa",
+        "provinsi": "Aceh"
+    },
+    "Universitas Sembilanbelas November Kolaka": {
+        "kota": "Kolaka",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Universitas Siliwangi": {
+        "kota": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Singaperbangsa Karawang": {
+        "kota": "Kabupaten Karawang",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Sriwijaya": {
+        "kota": "Kabupaten Ogan Ilir",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Sulawesi Barat": {
+        "kota": "Kabupaten Majene",
+        "provinsi": "Sulawesi Barat"
+    },
+    "Universitas Sultan Ageng Tirtayasa": {
+        "kota": "Serang",
+        "provinsi": "Banten"
+    },
+    "Universitas Tadulako": {
+        "kota": "Kota Palu",
+        "provinsi": "Sulawesi Tengah"
+    },
+    "Universitas Tanjungpura": {
+        "kota": "Kota Pontianak",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Universitas Teuku Umar": {
+        "kota": "Kabupaten Aceh Barat",
+        "provinsi": "Aceh"
+    },
+    "Universitas Tidar": {
+        "kota": "Kota Magelang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Timor": {
+        "kota": "Kabupaten Timor Tengah Utara",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas Trunojoyo": {
+        "kota": "Kabupaten Bangkalan",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Udayana": {
+        "kota": "Kabupaten Badung",
+        "provinsi": "Bali"
+    },
+    "Institut Bisnis Informasi Teknologi dan Bisnis": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Kesehatan Deli Husada Deli Tua": {
+        "kota": "Deli Serdang",
+        "provinsi": "Sumatera Utara"
+    },
+    "Institut Kesehatan Helvetia": {
+        "kota": "Kota Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Institut Kesehatan Medistra Lubuk Pakam": {
+        "kota": "Deli Serdang",
+        "provinsi": "Sumatera Utara"
+    },
+    "Institut Kesehatan Sumatera Utara": {
+        "kota": "Kota Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Institut Pendidikan Tapanuli Selatan": {
+        "kota": "Kabupaten Tapanuli Selatan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Institut Teknologi dan Bisnis Indonesia": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi dan Sains Padang Lawas Utara": {
+        "kota": "Kabupaten Padang Lawas Utara",
+        "provinsi": "Sumatera Utara"
+    },
+    "Institut Teknologi Del": {
+        "kota": "Kabupaten Toba",
+        "provinsi": "Sumatera Utara"
+    },
+    "Institut Teknologi Sawit Indonesia": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "S.T. Manajemen Bisnis Multi Sarana Manajemen Administrasi dan Rekayasa Teknologi": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Bina Karya": {
+        "kota": "Kota Tebing Tinggi",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Eka Prasetya": {
+        "kota": "Kota Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Graha Kirana": {
+        "kota": "Kota Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Asahan": {
+        "kota": "Kabupaten Asahan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Sultan Agung": {
+        "kota": "Kota Pematangsiantar",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Ilmu Hukum Graha Kirana": {
+        "kota": "Kota Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Flora": {
+        "kota": "Kota Batam",
+        "provinsi": "Kepulauan Riau"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Malahayati Medan": {
+        "kota": "Kota Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Mitra Husada Medan": {
+        "kota": "Kota Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Mitra Sejati": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Ilmu Manajemen Sukma": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Keguruan dan Ilmu Pendidikan Al Maksum": {
+        "kota": "Langkat",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Manajemen Informatika dan Komputer Royal": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Olahraga Dan Kesehatan Bina Guna": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Perikanan dan Kelautan Matauli": {
+        "kota": "Tapanuli Tengah",
+        "provinsi": "Sumatera Utara"
+    },
+    "Sekolah Tinggi Perikanan Sibolga": {
+        "kota": "Sibolga",
+        "provinsi": "Sumatera Utara"
+    },
+    "STIE Professional Manajemen College Indonesia": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "STIKES Senior Medan": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "STIKES Siti Hajar": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "STIKES Widya Husada Medan": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "STIKOM Tunas Bangsa": {
+        "kota": "Pematangsiantar",
+        "provinsi": "Sumatera Utara"
+    },
+    "STKIP Budidaya": {
+        "kota": "Binjai",
+        "provinsi": "Sumatera Utara"
+    },
+    "STMIK Kaputama": {
+        "kota": "Binjai",
+        "provinsi": "Sumatera Utara"
+    },
+    "STMIK Pelita Nusantara": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "STMIK Time": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "STMIK Triguna Dharma": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Al Washliyah": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Al- Azhar": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Alwashliyah": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Amir Hamzah": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Asahan": {
+        "kota": "Kisaran",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Audi Indonesia": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Aufa Royhan": {
+        "kota": "Padangsidimpuan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Battuta": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Darma Agung": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Deli Sumatera": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Dharmawangsa": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Efarina": {
+        "kota": "Pematangsiantar",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Graha Nusantara": {
+        "kota": "Padangsidimpuan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Harapan Medan": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas HKBP Nommensen": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas HKBP Nommensen Pematangsiantar": {
+        "kota": "Pematangsiantar",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas IBBI": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Imelda Medan": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Islam Sumatera Utara": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Katolik Santo Thomas": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Labuhanbatu": {
+        "kota": "Rantau Prapat",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Mahkota Tricom Unggul": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Medan Area": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Methodist Indonesia": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Mikroskil": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Muhammadiyah Sumatera Utara": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Muhammadiyah Tapanuli Selatan": {
+        "kota": "Padangsidimpuan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Murni Teguh": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Muslim Nusantara Al- Washliyah": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Nahdlatul Ulama Sumatera Utara": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Pembangunan Panca Budi": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Pembinaan Masyarakat Indonesia": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Potensi Utama": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Prima Indonesia": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Quality": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Quality Berastagi": {
+        "kota": "Karo",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Sari Mutiara Indonesia Medan": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Satya Terra Bhinneka": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Sisingamangaraja XII Tapanuli Utara": {
+        "kota": "Tapanuli Utara",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Tjut Nyak Dhien": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Institut Bakti Nusantara": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Citra Internasional": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Ilmu Kesehatan dan Teknologi Muhammadiyah Palembang": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Institut Informatika Dan Bisnis Darmajaya": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Institut\n  Informatika Dan Bisnis Darmajaya": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Institut\n  Sains dan Bisnis Atma Luhur": {
+        "kota": "Pangkal Pinang",
+        "provinsi": "Kepulauan Bangka Belitung"
+    },
+    "Institut Sains dan Bisnis Atma Luhur": {
+        "kota": "Pangkal Pinang",
+        "provinsi": "Kepulauan Bangka Belitung"
+    },
+    "Institut Teknologi dan Bisnis Diniyyah Lampung": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Institut Teknologi dan Bisnis Diniyyah\n  Lampung": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Institut Teknologi dan Bisnis Palcomtech": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Institut Teknologi dan Sains Nahdlatul Ulama Lampung": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Institut Teknologi Muhammadiyah Sumatera": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi Pagar Alam": {
+        "kota": "Pagar Alam",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Al- Madani": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Gentiaras": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Sekolah Tinggi Ilmu Farmasi Bhakti Pertiwi": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Sapta Bakti": {
+        "kota": "Bengkulu",
+        "provinsi": "Bengkulu"
+    },
+    "Sekolah Tinggi Ilmu Pertanian Dharma\n  Wacana": {
+        "kota": "Metro",
+        "provinsi": "Lampung"
+    },
+    "Sekolah Tinggi Ilmu Pertanian Dharma Wacana": {
+        "kota": "Metro",
+        "provinsi": "Lampung"
+    },
+    "Sekolah Tinggi Keguruan dan Ilmu Pendidikan\n  Muhammadiyah OKU Timur": {
+        "kota": "Ogan Komering Ulu Timur",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Sekolah Tinggi Keguruan dan Ilmu Pendidikan Rosalia Lampung": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Sekolah Tinggi Teknologi Nusantara Lampung": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "STIKES Bhakti Husada Bengkulu": {
+        "kota": "Bengkulu",
+        "provinsi": "Bengkulu"
+    },
+    "STIKES Tri Mandiri Sakti Bengkulu": {
+        "kota": "Bengkulu",
+        "provinsi": "Bengkulu"
+    },
+    "STISIPOL Candradimuka": {
+        "kota": "Bengkulu",
+        "provinsi": "Bengkulu"
+    },
+    "STISIPOL Dharma Wacana": {
+        "kota": "Metro",
+        "provinsi": "Lampung"
+    },
+    "STKIP Muhammadiyah Pagaralam": {
+        "kota": "Pagar Alam",
+        "provinsi": "Sumatera Selatan"
+    },
+    "STKIP PGRI Bandar Lampung": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "STMIK Bina Nusantara Jaya Lubuk Linggau": {
+        "kota": "Lubuklinggau",
+        "provinsi": "Sumatera Selatan"
+    },
+    "STMIK Dharma Wacana": {
+        "kota": "Metro",
+        "provinsi": "Lampung"
+    },
+    "Universitas Aisyah Pringsewu": {
+        "kota": "Pringsewu",
+        "provinsi": "Lampung"
+    },
+    "Universitas Bandar Lampung": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Universitas Baturaja": {
+        "kota": "Ogan Komering Ulu",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Bina Darma": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Bina Insan": {
+        "kota": "Lubuklinggau",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Dehasen Bengkulu": {
+        "kota": "Bengkulu",
+        "provinsi": "Bengkulu"
+    },
+    "Universitas IBA": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Indo Global Mandiri": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Islam Ogan Komering Ilir\n  Kayuagung": {
+        "kota": "Ogan Komering Ilir",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Islam Ogan Komering Ilir Kayuagung": {
+        "kota": "Ogan Komering Ilir",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Katolik Musi Charitas": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Malahayati": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Universitas Mitra Indonesia": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Universitas Muhammadiyah Bangka Belitung": {
+        "kota": "Pangkal Pinang",
+        "provinsi": "Kepulauan Bangka Belitung"
+    },
+    "Universitas Muhammadiyah Bengkulu": {
+        "kota": "Bengkulu",
+        "provinsi": "Bengkulu"
+    },
+    "Universitas Muhammadiyah Kotabumi": {
+        "kota": "Lampung Utara",
+        "provinsi": "Lampung"
+    },
+    "Universitas Muhammadiyah Lampung": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Universitas Muhammadiyah Metro": {
+        "kota": "Metro",
+        "provinsi": "Lampung"
+    },
+    "Universitas Muhammadiyah Palembang": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Muhammadiyah Pringsewu": {
+        "kota": "Pringsewu",
+        "provinsi": "Lampung"
+    },
+    "Universitas Multi Data Palembang": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Nahdlatul Ulama Lampung": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Universitas Nurul Huda": {
+        "kota": "Ogan Komering Ulu Timur",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Palembang": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Pat Petulai": {
+        "kota": "Rejang Lebong",
+        "provinsi": "Bengkulu"
+    },
+    "Universitas PGRI Palembang": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas PGRI Silampari": {
+        "kota": "Lubuklinggau",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Prabumulih": {
+        "kota": "Prabumulih",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Prof Dr Hazairin SH": {
+        "kota": "Bengkulu",
+        "provinsi": "Bengkulu"
+    },
+    "Universitas Ratu Samban": {
+        "kota": "Bengkulu Utara",
+        "provinsi": "Bengkulu"
+    },
+    "Universitas Sang Bumi Ruwa Jurai": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Universitas Satu Nusa Lampung": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Universitas Serasan": {
+        "kota": "Muara Enim",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Sjakhyakirti": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Sumatera Selatan": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Tamansiswa": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Teknokrat Indonesia": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Universitas Tridinanti": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Tulang Bawang": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Institut Bio Scientia Internasional Indonesia": {
+        "kota": "Bogor",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Ilmu Sosial dan Manajemen STIAMI": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Institut Kesehatan dan Teknologi Pondok Karya Pembangunan": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Institut Kesehatan Hermina": {
+        "kota": "Depok",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Keuangan- Perbankan Dan Informatika Asia Perbanas": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Institut Sains Dan Teknologi Al-Kamal": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Institut Teknologi dan Bisnis Ahmad Dahlan": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Institut Teknologi Indonesia": {
+        "kota": "Tangerang Selatan",
+        "provinsi": "Banten"
+    },
+    "Institut Teknologi Perusahaan Listrik Negara": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Institut Transportasi dan Logistik Trisakti": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Ganesha": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Indonesia Jakarta": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Jayakusuma": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Trisakti": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Abdi Nusantara": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Budi Kemuliaan": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Medistra Indonesia": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Sint Carolus": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Ilmu Pemerintahan Abdi Negara": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Manajemen PPM": {
+        "kota": "Jakarta Pusat",
+        "provinsi": "DKI Jakarta"
+    },
+    "ST Ilmu Komputer Cipta Karya Informatika": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "STIKES Mitra Keluarga": {
+        "kota": "Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "STKIP Kusumanegara": {
+        "kota": "Jakarta Timur",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas 17 Agustus 1945 Jakarta": {
+        "kota": "Jakarta Utara",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Agung Podomoro": {
+        "kota": "Jakarta Barat",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Al-Azhar Indonesia": {
+        "kota": "Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Asa Indonesia": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Bakrie": {
+        "kota": "Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Bhayangkara Jakarta Raya": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Bina Nusantara": {
+        "kota": "Jakarta Barat",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Bina Sarana Informatika": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Binawan": {
+        "kota": "Jakarta Timur",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Borobudur": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Budi Luhur": {
+        "kota": "Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Bunda Mulia": {
+        "kota": "Jakarta Utara",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Bung Karno": {
+        "kota": "Jakarta Pusat",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Darma Persada": {
+        "kota": "Jakarta Timur",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Dian Nusantara": {
+        "kota": "Jakarta Barat",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Dirgantara Marsekal Suryadarma": {
+        "kota": "Jakarta Timur",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Esa Unggul": {
+        "kota": "Jakarta Barat",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Gunadarma": {
+        "kota": "Depok",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Indonesia Maju": {
+        "kota": "Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Indraprasta PGRI": {
+        "kota": "Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas IPWIJA": {
+        "kota": "Jakarta Timur",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Islam As-Syafiiyah": {
+        "kota": "Jakarta Timur",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Islam Jakarta": {
+        "kota": "Jakarta Timur",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Jayabaya": {
+        "kota": "Jakarta Timur",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Kalbis": {
+        "kota": "Jakarta Timur",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Katolik Indonesia Atma Jaya": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Krisnadwipayana": {
+        "kota": "Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Kristen Indonesia": {
+        "kota": "Jakarta Timur",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Kristen Krida Wacana": {
+        "kota": "Jakarta Barat",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Media Nusantara Citra": {
+        "kota": "Tangerang",
+        "provinsi": "Banten"
+    },
+    "Universitas Mercu Buana": {
+        "kota": "Jakarta Barat",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Mitra Bangsa": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Mohammad Husni Thamrin Jakarta": {
+        "kota": "Jakarta Timur",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Muhammadiyah Jakarta": {
+        "kota": "Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Muhammadiyah Prof Dr Hamka": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Multimedia Nusantara": {
+        "kota": "Tangerang",
+        "provinsi": "Banten"
+    },
+    "Universitas Nahdlatul Ulama Indonesia": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Nasional": {
+        "kota": "Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Nusa Mandiri": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Pancasila": {
+        "kota": "Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Paramadina": {
+        "kota": "Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Pelita Harapan": {
+        "kota": "Kota Tangerang",
+        "provinsi": "Banten"
+    },
+    "Universitas Persada Indonesia Yai": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Pertamina": {
+        "kota": "Kota Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Pradita": {
+        "kota": "Kota Tangerang",
+        "provinsi": "Banten"
+    },
+    "Universitas Prasetiya Mulya": {
+        "kota": "Kabupaten Tangerang",
+        "provinsi": "Banten"
+    },
+    "Universitas Prof Dr Moestopo (Beragama)": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Respati Indonesia": {
+        "kota": "Kota Jakarta Timur",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Sahid": {
+        "kota": "Kota Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Sampoerna": {
+        "kota": "Kota Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Satya Negara Indonesia": {
+        "kota": "Kota Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Tarumanagara": {
+        "kota": "Kota Jakarta Barat",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Teknologi Muhammadiyah Jakarta": {
+        "kota": "Kota Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Trilogi": {
+        "kota": "Kota Jakarta Selatan",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Trisakti": {
+        "kota": "Kota Jakarta Barat",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Yarsi": {
+        "kota": "Kota Jakarta Pusat",
+        "provinsi": "DKI Jakarta"
+    },
+    "Institut Bisnis Dan Informatika Kesatuan": {
+        "kota": "Bogor",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Digital Ekonomi LPKIA": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Keguruan dan Ilmu Pendidikan Siliwangi": {
+        "kota": "Kota Cimahi",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Kesehatan Rajawali": {
+        "kota": "Kota Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Manajemen Wiyata Indonesia": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Pendidikan dan Bahasa Invada": {
+        "kota": "Kota Cirebon",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Pendidikan Indonesia Garut": {
+        "kota": "Kabupaten Garut",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Teknologi dan Bisnis Bina Sarana Global": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi dan Kesehatan Mahardika": {
+        "kota": "Kota Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Teknologi Garut": {
+        "kota": "Kabupaten Garut",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Teknologi Harapan Bangsa": {
+        "kota": "Kota Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Teknologi Nasional Bandung": {
+        "kota": "Kota Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Analis Bakti Asih": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Analis Kimia Cilegon": {
+        "kota": "Cilegon",
+        "provinsi": "Banten"
+    },
+    "Sekolah Tinggi Bahasa Asing JIA": {
+        "kota": "Kota Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Bahasa Asing Yapari": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Farmasi Indonesia Bandung": {
+        "kota": "Kota Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Farmasi Muhammadiyah Cirebon": {
+        "kota": "Kota Cirebon",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Ilmu Administrasi Banten": {
+        "kota": "Serang",
+        "provinsi": "Banten"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Mulia Pratama": {
+        "kota": "Kota Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Pasundan": {
+        "kota": "Kota Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Ilmu Keperawatan PPNI Jawa Barat": {
+        "kota": "Kota Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Bogor Husada": {
+        "kota": "Kota Bogor",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Holistik": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Indramayu": {
+        "kota": "Indramayu",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Kuningan": {
+        "kota": "Kabupaten Kuningan",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Salsabila Serang": {
+        "kota": "Kota Serang",
+        "provinsi": "Banten"
+    },
+    "Sekolah Tinggi Keguruan dan Ilmu Pendidikan Bina Mutiara": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Manajemen Informatika dan Komputer Al- Fath": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Pariwisata Ars Internasional": {
+        "kota": "Kota Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Pariwisata Bogor": {
+        "kota": "Kota Bogor",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Teknologi Bandung": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Teknologi Industri dan Farmasi Bogor": {
+        "kota": "Bogor",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Teknologi Mandala": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Teknologi Wastukancana": {
+        "kota": "Purwakarta",
+        "provinsi": "Jawa Barat"
+    },
+    "STIKES An Nasher Cirebon": {
+        "kota": "Cirebon",
+        "provinsi": "Jawa Barat"
+    },
+    "STIKES Karsa Husada Garut": {
+        "kota": "Garut",
+        "provinsi": "Jawa Barat"
+    },
+    "STIKES Muhammadiyah Ciamis": {
+        "kota": "Ciamis",
+        "provinsi": "Jawa Barat"
+    },
+    "STIKES Muhammadiyah Cirebon": {
+        "kota": "Cirebon",
+        "provinsi": "Jawa Barat"
+    },
+    "STIKES Muhammadiyah Kuningan": {
+        "kota": "Kuningan",
+        "provinsi": "Jawa Barat"
+    },
+    "STIKES Prima Indonesia": {
+        "kota": "Sukabumi",
+        "provinsi": "Jawa Barat"
+    },
+    "STIKES Widya Dharma Husada Tangerang": {
+        "kota": "Tangerang",
+        "provinsi": "Banten"
+    },
+    "STIKES Wijaya Husada Bogor": {
+        "kota": "Bogor",
+        "provinsi": "Jawa Barat"
+    },
+    "STISIP Bina Putera Banjar": {
+        "kota": "Banjar",
+        "provinsi": "Jawa Barat"
+    },
+    "STKIP Muhammadiyah Kuningan": {
+        "kota": "Kuningan",
+        "provinsi": "Jawa Barat"
+    },
+    "STKIP Nahdlatul Ulama Indramayu": {
+        "kota": "Indramayu",
+        "provinsi": "Jawa Barat"
+    },
+    "STKIP Pangeran Dharma Kusuma Segeran Juntinyuat Indramayu": {
+        "kota": "Indramayu",
+        "provinsi": "Jawa Barat"
+    },
+    "STKIP Yasika": {
+        "kota": "Majalengka",
+        "provinsi": "Jawa Barat"
+    },
+    "STMIK IKMI Cirebon": {
+        "kota": "Cirebon",
+        "provinsi": "Jawa Barat"
+    },
+    "STMIK Mardira Indonesia": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Adhirajasa Reswara Sanjaya": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Advent Indonesia": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas 'Aisyiyah Bandung": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Al- ghifari": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Bakti Tunas Husada": {
+        "kota": "Tasikmalaya",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Banten Jaya": {
+        "kota": "Serang",
+        "provinsi": "Banten"
+    },
+    "Universitas Bhakti Kencana": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Bina Bangsa": {
+        "kota": "Serang",
+        "provinsi": "Banten"
+    },
+    "Universitas Bina Insani": {
+        "kota": "Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Buana Perjuangan Karawang": {
+        "kota": "Karawang",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Buddhi Dharma": {
+        "kota": "Tangerang",
+        "provinsi": "Banten"
+    },
+    "Universitas Catur Insan Cendekia": {
+        "kota": "Cirebon",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Cendekia Abditama": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Cipasung Tasikmalaya": {
+        "kota": "Tasikmalaya",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Djuanda": {
+        "kota": "Bogor",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Galuh": {
+        "kota": "Ciamis",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Garut": {
+        "kota": "Garut",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Global Jakarta": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Halim sanusi": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Horizon Indonesia": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Ibn Khaldun": {
+        "kota": "Bogor",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Indonesia Membangun": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Informatika Dan Bisnis Indonesia": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Internasional Jakarta": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Islam 45": {
+        "kota": "Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Islam Bandung": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Islam Nusantara": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Islam Syeh Yusuf": {
+        "kota": "Tangerang",
+        "provinsi": "Banten"
+    },
+    "Universitas Jenderal Achmad Yani": {
+        "kota": "Cimahi",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Katolik Parahyangan": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Kebangsaan Republik Indonesia": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas\n  Kebangsaan Republik Indonesia": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Komputer Indonesia": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Koperasi Indonesia": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Kristen Maranatha": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Kuningan": {
+        "kota": "Kuningan",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas La Tansa Mashiro": {
+        "kota": "Lebak",
+        "provinsi": "Banten"
+    },
+    "Universitas Langlang Buana": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Logistik dan Bisnis Internasional": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Majalengka": {
+        "kota": "Majalengka",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Mangku Wiyata": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Ma'soem": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Matana": {
+        "kota": "Tangerang",
+        "provinsi": "Banten"
+    },
+    "Universitas Mathla ul Anwar": {
+        "kota": "Pandeglang",
+        "provinsi": "Banten"
+    },
+    "Universitas Medika Suherman": {
+        "kota": "Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Muhammadiyah A.R. Fachruddin": {
+        "kota": "Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Muhammadiyah Bandung": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Muhammadiyah Bogor Raya": {
+        "kota": "Bogor",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Muhammadiyah Cirebon": {
+        "kota": "Cirebon",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Muhammadiyah Sukabumi": {
+        "kota": "Sukabumi",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Muhammadiyah Tangerang": {
+        "kota": "Tangerang",
+        "provinsi": "Banten"
+    },
+    "Universitas Muhammadiyah Tasikmalaya": {
+        "kota": "Tasikmalaya",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Nahdlatul Ulama Cirebon": {
+        "kota": "Cirebon",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Nurtanio": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Nusa Bangsa": {
+        "kota": "Bogor",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Nusa Putra": {
+        "kota": "Sukabumi",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Pakuan": {
+        "kota": "Bogor",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Pamulang": {
+        "kota": "Tangerang Selatan",
+        "provinsi": "Banten"
+    },
+    "Universitas Panca Sakti Bekasi": {
+        "kota": "Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Pasundan": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Pelita Bangsa": {
+        "kota": "Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Pembangunan Jaya Tangerang": {
+        "kota": "Tangerang Selatan",
+        "provinsi": "Banten"
+    },
+    "Universitas\n  Perjuangan Tasikmalaya": {
+        "kota": "Tasikmalaya",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Perjuangan Tasikmalaya": {
+        "kota": "Tasikmalaya",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Pertiwi": {
+        "kota": "Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Presiden": {
+        "kota": "Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Putra Indonesia": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Raharja": {
+        "kota": "Tangerang",
+        "provinsi": "Banten"
+    },
+    "Universitas Sangga Buana": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Santo Borromeus": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Sebelas April": {
+        "kota": "Sumedang",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Serang Raya": {
+        "kota": "Serang",
+        "provinsi": "Banten"
+    },
+    "Universitas\n  Setia Budhi Rangkasbitung": {
+        "kota": "Lebak",
+        "provinsi": "Banten"
+    },
+    "Universitas Setia Budhi Rangkasbitung": {
+        "kota": "Lebak",
+        "provinsi": "Banten"
+    },
+    "Universitas Subang": {
+        "kota": "Subang",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Suryakancana": {
+        "kota": "Cianjur",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Swadaya Gunung Djati": {
+        "kota": "Cirebon",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Swiss German": {
+        "kota": "Tangerang",
+        "provinsi": "Banten"
+    },
+    "Universitas Tangerang Raya": {
+        "kota": "Tangerang",
+        "provinsi": "Banten"
+    },
+    "Universitas Telkom": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Utpadaka Swastika": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Wanita Internasional": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Widyatama": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Winaya Mukti": {
+        "kota": "Sumedang",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Wiralodra": {
+        "kota": "Indramayu",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Yatsi Madani": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Yayasan Pendidikan Imam Bonjol Majalengka": {
+        "kota": "Majalengka",
+        "provinsi": "Jawa Barat"
+    },
+    "Institut Pertanian Stiper": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Institut Sains Dan Teknologi Akprind": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Institut Teknologi Dirgantara Adisutjipto": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Institut Teknologi Nasional Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Widya Wiwaha": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi YKPN": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Akbidyo": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Madani Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Panti Rapih Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Surya Global": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Sekolah Tinggi Maritim Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Sekolah Tinggi Pariwisata Ambarrukmo Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Sekolah Tinggi Pembangunan Masyarakat Desa APMD": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "STIKES Guna Bangsa Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Ahmad Dahlan": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Aisyiyah Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Alma Ata": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Amikom Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Atma Jaya Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Cendekia Mitra Indonesia": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Cokroaminoto": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Islam Indonesia": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Janabadra": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Jenderal Achmad Yani Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Kristen Duta Wacana": {
+        "kota": "Yogyakarta",
+        "provinsi": "DI Yogyakarta"
+    },
+    "Universitas Kristen Immanuel": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Mercu Buana Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Muhammadiyah Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Nahdlatul Ulama Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas PGRI Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Proklamasi 45": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Respati Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Sanata Dharma": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Sarjanawiyata Tamansiswa": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Teknologi Digital Indonesia": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Teknologi Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Universitas Widya Mataram": {
+        "kota": "Yogyakarta",
+        "provinsi": "Daerah Istimewa Yogyakarta"
+    },
+    "Institut Teknologi Bisnis AAS Indonesia": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi Bisnis dan Kesehatan Bhakti Putra Bangsa Indonesia": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi dan Bisnis Kristen Bukit Pengharapan": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi dan Bisnis Muhammadiyah Purbalingga": {
+        "kota": "Purbalingga",
+        "provinsi": "Jawa Tengah"
+    },
+    "Institut Teknologi dan Bisnis Semarang": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Institut Teknologi Dan Sains Nahdlatul Ulama Pekalongan": {
+        "kota": "Pekalongan",
+        "provinsi": "Jawa Tengah"
+    },
+    "Institut Teknologi Kesehatan Cendekia Utama Kudus": {
+        "kota": "Kudus",
+        "provinsi": "Jawa Tengah"
+    },
+    "Institut Teknologi Sains dan Kesehatan PKU Muhammadiyah Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Institut Teknologi Sains dan Kesehatan Sugeng Hartono": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi Statistika dan Bisnis Muhammadiyah Semarang": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Institut Teknologi Telkom Purwokerto": {
+        "kota": "Purwokerto",
+        "provinsi": "Jawa Tengah"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Atma Bhakti": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Bank Bpd Jawa Tengah": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Pariwisata Indonesia": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Studi Ekonomi Modern": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Swasta Mandiri": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Tamansiswa": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Totalwin": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Farmasi Nusaputera": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Sekolah Tinggi Ilmu Farmasi Yayasan Pharmasi": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Bakti Utama Pati": {
+        "kota": "Pati",
+        "provinsi": "Jawa Tengah"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Elisabeth Semarang": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Nasional": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Komputer Yos Sudarso": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Pertanian Farming": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Manajemen Informatika dan Komputer AMIKOM Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Sekolah Tinggi Teknik Wiworotomo": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Teknologi \"Warga\" Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "STIKES Estu Utomo": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "STIKES Muhammadiyah Tegal": {
+        "kota": "Tegal",
+        "provinsi": "Jawa Tengah"
+    },
+    "STKIP Muhammadiyah Blora": {
+        "kota": "Blora",
+        "provinsi": "Jawa Tengah"
+    },
+    "STMIK Bina Patria": {
+        "kota": "Magelang",
+        "provinsi": "Jawa Tengah"
+    },
+    "STMIK Muhammadiyah Paguyangan Brebes": {
+        "kota": "Brebes",
+        "provinsi": "Jawa Tengah"
+    },
+    "STMIK Sinar Nusantara": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "STMIK Widya Pratama": {
+        "kota": "Pekalongan",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas 17 Agustus 1945 Semarang": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas 'Aisyiyah Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Al-Irsyad Cilacap": {
+        "kota": "Cilacap",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Amikom Purwokerto": {
+        "kota": "Purwokerto",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas An Nuur": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Bhamada Slawi": {
+        "kota": "Tegal",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Boyolali": {
+        "kota": "Boyolali",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Darul Ulum Islamic Centre Sudirman": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Dharma AUB Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Dian Nuswantoro": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Duta Bangsa Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Harapan Bangsa": {
+        "kota": "Banyumas",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Islam Batik": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Islam Nahdlatul Ulama Jepara": {
+        "kota": "Jepara",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Islam Sultan Agung": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Ivet": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Karya Husada Semarang": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Katolik Soegijapranata": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Kristen Satya Wacana": {
+        "kota": "Salatiga",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Kusuma Husada Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Ma'arif Nahdlatul Ulama Kebumen": {
+        "kota": "Kebumen",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Muhadi Setiabudi": {
+        "kota": "Brebes",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Muhammadiyah Gombong": {
+        "kota": "Kebumen",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Muhammadiyah Karanganyar": {
+        "kota": "Karanganyar",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Muhammadiyah Kendal Batang": {
+        "kota": "Kendal",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Muhammadiyah Kudus": {
+        "kota": "Kudus",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Muhammadiyah Magelang": {
+        "kota": "Magelang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Muhammadiyah Pekajangan Pekalongan": {
+        "kota": "Pekalongan",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Muhammadiyah Purwokerto": {
+        "kota": "Banyumas",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Muhammadiyah Purworejo": {
+        "kota": "Purworejo",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Muhammadiyah Semarang": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Muhammadiyah Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Muria Kudus": {
+        "kota": "Kudus",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Nahdlatul Ulama Al Ghazali Cilacap": {
+        "kota": "Cilacap",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Nahdlatul Ulama Purwokerto": {
+        "kota": "Banyumas",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Nahdlatul Ulama Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Nasional Karangturi Semarang": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Ngudi Waluyo": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Pancasakti Tegal": {
+        "kota": "Tegal",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Pekalongan": {
+        "kota": "Pekalongan",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Peradaban": {
+        "kota": "Brebes",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas PGRI Semarang": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Pignatelli Triputra": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Putra Bangsa": {
+        "kota": "Kebumen",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Sahid Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Sains Alqur an": {
+        "kota": "Wonosobo",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Sains dan Teknologi Komputer": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Selamat Sri": {
+        "kota": "Kendal",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Semarang": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Setia Budi Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Slamet Riyadi": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Stikubank": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Sultan Fatah": {
+        "kota": "Demak",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Tunas Pembangunan Surakarta (UTP)": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Veteran Bangun Nusantara": {
+        "kota": "Sukoharjo",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Wahid Hasyim": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Widya Dharma": {
+        "kota": "Klaten",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Widya Husada Semarang": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Wijaya Kusuma Purwokerto": {
+        "kota": "Banyumas",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas\n  Wijaya Kusuma Purwokerto": {
+        "kota": "Banyumas",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas YPPI Rembang": {
+        "kota": "Rembang",
+        "provinsi": "Jawa Tengah"
+    },
+    "IKIP PGRI Bojonegoro": {
+        "kota": "Bojonegoro",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Ilmu Kesehatan Bhakti Wiyata Kediri": {
+        "kota": "Kediri",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Ilmu Kesehatan Nahdlatul Ulama Tuban": {
+        "kota": "Tuban",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Ilmu Kesehatan STRADA Indonesia": {
+        "kota": "Kediri",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Kesehatan dan Bisnis Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut\n  Kesehatan dan Bisnis Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Pertanian Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut\n  Sains Dan Teknologi Annuqayah": {
+        "kota": "Sumenep",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Sains dan Teknologi Terpadu Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut\n  Teknologi Adhi Tama Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Teknologi Adhi Tama Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Teknologi dan Bisnis Ahmad Dahlan Lamongan": {
+        "kota": "Lamongan",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Teknologi dan Bisnis Asia Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Teknologi dan Bisnis Asia\n  Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Teknologi dan Bisnis Muhammadiyah Banyuwangi": {
+        "kota": "Banyuwangi",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Teknologi dan Bisnis Widya Gama Lumajang": {
+        "kota": "Lumajang",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Teknologi dan Bisnis Yadika\n  Pasuruan": {
+        "kota": "Pasuruan",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Teknologi dan Sains Mandala": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut\n  Teknologi dan Sains Mandala": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi dan Sains Nahdlatul Ulama Pasuruan": {
+        "kota": "Pasuruan",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut\n  Teknologi dan Sains Nahdlatul Ulama Pasuruan": {
+        "kota": "Pasuruan",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Teknologi Nasional Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Filsafat Teologi Widya Sasana": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Administrasi Pembangunan": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Artha Bodhi Iswara": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Cendekia\n  Bojonegoro": {
+        "kota": "Bojonegoro",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Indocakti": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Indonesia Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Indonesia Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah\n  Tinggi Ilmu Ekonomi Kertanegara": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah\n  Tinggi Ilmu Ekonomi Mahardhika": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Malangkucecwara": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Tuban": {
+        "kota": "Tuban",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Pemuda": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi PGRI Dewantara": {
+        "kota": "Madiun",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Hang Tuah Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Harapan\n  Bangsa": {
+        "kota": "Purwokerto",
+        "provinsi": "Jawa Tengah"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Husada Jombang": {
+        "kota": "Jombang",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Kendedes": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Ngudia Husada Madura": {
+        "kota": "Sumenep",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Pemkab Jombang": {
+        "kota": "Jombang",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan William\n  Booth": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Komputer PGRI Banyuwangi": {
+        "kota": "Banyuwangi",
+        "provinsi": "Jawa Timur"
+    },
+    "Sekolah Tinggi Ilmu Komunikasi Aws": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "STIKES Adi Husada": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "STIKES Banyuwangi": {
+        "kota": "Banyuwangi",
+        "provinsi": "Jawa Timur"
+    },
+    "STIKES Bhakti Al- Qodiri": {
+        "kota": "Jember",
+        "provinsi": "Jawa Timur"
+    },
+    "STIKES Ganesha Husada Kediri": {
+        "kota": "Kediri",
+        "provinsi": "Jawa Timur"
+    },
+    "STIKES Hafshawaty Pesantren Zainul Hasan": {
+        "kota": "Probolinggo",
+        "provinsi": "Jawa Timur"
+    },
+    "STIKES Karya Putra Bangsa Tulungagung": {
+        "kota": "Tulungagung",
+        "provinsi": "Jawa Timur"
+    },
+    "STIKES Pamenang": {
+        "kota": "Kediri",
+        "provinsi": "Jawa Timur"
+    },
+    "STIKES Patria Husada": {
+        "kota": "Blitar",
+        "provinsi": "Jawa Timur"
+    },
+    "STIKES Satria Bhakti Nganjuk": {
+        "kota": "Nganjuk",
+        "provinsi": "Jawa Timur"
+    },
+    "STIKES Widyagama Husada Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "STIKI Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "STKIP Al Hikmah Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "STKIP Bina Insan Mandiri": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "STKIP Modern Ngawi": {
+        "kota": "Ngawi",
+        "provinsi": "Jawa Timur"
+    },
+    "STKIP PGRI Bangkalan": {
+        "kota": "Bangkalan",
+        "provinsi": "Jawa Timur"
+    },
+    "STKIP PGRI Nganjuk": {
+        "kota": "Nganjuk",
+        "provinsi": "Jawa Timur"
+    },
+    "STKIP PGRI Pacitan": {
+        "kota": "Pacitan",
+        "provinsi": "Jawa Timur"
+    },
+    "STKIP PGRI Ponorogo": {
+        "kota": "Ponorogo",
+        "provinsi": "Jawa Timur"
+    },
+    "STKIP PGRI Sumenep": {
+        "kota": "Sumenep",
+        "provinsi": "Jawa Timur"
+    },
+    "STKIP PGRI Trenggalek": {
+        "kota": "Trenggalek",
+        "provinsi": "Jawa Timur"
+    },
+    "STMIK PPKIA Pradnya Paramita": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas 17 Agustus 1945\n  Banyuwangi": {
+        "kota": "Banyuwangi",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas 17 Agustus 1945 Banyuwangi": {
+        "kota": "Banyuwangi",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas 17 Agustus 1945\n  Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas 17 Agustus 1945 Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Abdurachman Saleh Situbondo": {
+        "kota": "Situbondo",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Anwar Medika": {
+        "kota": "Sidoarjo",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Bakti Indonesia": {
+        "kota": "Banyuwangi",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Bhayangkara Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Bhinneka PGRI": {
+        "kota": "Tulungagung",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Billfath": {
+        "kota": "Lamongan",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Bina Sehat PPNI Mojokerto": {
+        "kota": "Mojokerto",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Bojonegoro": {
+        "kota": "Bojonegoro",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Bondowoso": {
+        "kota": "Bondowoso",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Ciputra Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Darma Cendika Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Darul ulum": {
+        "kota": "Jombang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Darussalam Gontor": {
+        "kota": "Ponorogo",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Dinamika": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Dr Soetomo": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas dr. Soebandi": {
+        "kota": "Jember",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Gajayana": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Gresik": {
+        "kota": "Gresik",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Hang Tuah": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Hasyim Asy'ari Tebuireng\n  Jombang": {
+        "kota": "Jombang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Hasyim Asy'ari Tebuireng Jombang": {
+        "kota": "Jombang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Hayam Wuruk Perbanas": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Insan Budi Utomo": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Internasional Semen Indonesia": {
+        "kota": "Gresik",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas\n  Internasional Semen Indonesia": {
+        "kota": "Gresik",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Islam Balitar": {
+        "kota": "Blitar",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Islam Darul `ulum": {
+        "kota": "Jombang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Islam Jember": {
+        "kota": "Jember",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Islam Kadiri": {
+        "kota": "Kediri",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Islam Lamongan": {
+        "kota": "Lamongan",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Islam Madura": {
+        "kota": "Pamekasan",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Islam Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Islam Raden Rahmat": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Kadiri": {
+        "kota": "Kediri",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Katolik Widya Karya": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Katolik Widya Mandala Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas KH. A. Wahab Hasbullah": {
+        "kota": "Jombang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas KH. Bahaudin Mudhary Madura": {
+        "kota": "Sumenep",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Kristen Petra": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Ma Chung": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Maarif Hasyim Latif": {
+        "kota": "Sidoarjo",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Madura": {
+        "kota": "Pamekasan",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Mayjen Sungkono": {
+        "kota": "Mojokerto",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Merdeka Madiun": {
+        "kota": "Madiun",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Merdeka Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Merdeka Pasuruan": {
+        "kota": "Pasuruan",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Mochammad Sroedji": {
+        "kota": "Jember",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Muhammadiyah Gresik": {
+        "kota": "Gresik",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Muhammadiyah Jember": {
+        "kota": "Jember",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Muhammadiyah Lamongan": {
+        "kota": "Lamongan",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Muhammadiyah Madiun": {
+        "kota": "Madiun",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Muhammadiyah Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Muhammadiyah Ponorogo": {
+        "kota": "Ponorogo",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Muhammadiyah Sidoarjo": {
+        "kota": "Sidoarjo",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Muhammadiyah Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Nahdlatul Ulama Blitar": {
+        "kota": "Blitar",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Nahdlatul Ulama Sidoarjo": {
+        "kota": "Sidoarjo",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Nahdlatul Ulama Sunan Giri": {
+        "kota": "Bojonegoro",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Nahdlatul Ulama Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Narotama": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Nurul Jadid": {
+        "kota": "Probolinggo",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Nusantara PGRI Kediri": {
+        "kota": "Kediri",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Panca Marga": {
+        "kota": "Probolinggo",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Pesantren Tinggi Darul ulum": {
+        "kota": "Jombang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas PGRI Adi Buana": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas PGRI Argopuro Jember": {
+        "kota": "Jember",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas PGRI Banyuwangi": {
+        "kota": "Banyuwangi",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas PGRI Jombang": {
+        "kota": "Jombang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas PGRI Kanjuruhan Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas PGRI Madiun": {
+        "kota": "Madiun",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas PGRI Ronggolawe": {
+        "kota": "Tuban",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas PGRI Wiranegara": {
+        "kota": "Pasuruan",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Qomaruddin": {
+        "kota": "Gresik",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Teknologi Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Tribhuwana Tungga Dewi": {
+        "kota": "Kota Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas\n  Tribhuwana Tungga Dewi": {
+        "kota": "Kota Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Widya Gama": {
+        "kota": "Kota Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Wijaya Kusuma Surabaya": {
+        "kota": "Kota Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Wijaya Putra": {
+        "kota": "Kota Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Wiraraja": {
+        "kota": "Kabupaten Sumenep",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Wisnuwardhana": {
+        "kota": "Kota Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Yudharta Pasuruan": {
+        "kota": "Kabupaten Pasuruan",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Sains dan Teknologi Nahdlatul Ulama Bali": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "Institut\n  Bisnis dan Teknologi Indonesia": {
+        "kota": "Kota Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Bisnis dan Teknologi Indonesia": {
+        "kota": "Kota Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Institut Desain dan Bisnis Bali": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "Institut Pariwisata dan Bisnis Internasional": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "Institut Pendidikan Nusantara Global": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi dan Bisnis STIKOM Bali": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "Institut Teknologi dan Kesehatan Aspirasi": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut\n  Teknologi dan Kesehatan Bali": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "Institut Teknologi dan Kesehatan Bali": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "Institut Teknologi dan Kesehatan Bintang Persada": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi Lombok": {
+        "kota": "Kabupaten Lombok Barat",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Sekolah\n  Tinggi Farmasi Mahaganesha": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "Sekolah Tinggi Ilmu Administrasi Mataram": {
+        "kota": "Kota Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Sekolah\n  Tinggi Ilmu Ekonomi 45 Mataram": {
+        "kota": "Kota Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi AMM": {
+        "kota": "Kota Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Bima": {
+        "kota": "Kabupaten Bima",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Yapis": {
+        "kota": "Jayapura",
+        "provinsi": "Papua"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Buleleng": {
+        "kota": "Kabupaten Buleleng",
+        "provinsi": "Bali"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Kesdam\n  IX/Udayana": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "Sekolah\n  Tinggi Pariwisata Mataram": {
+        "kota": "Kota Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Sekolah Tinggi Pariwisata Soromandi Bima": {
+        "kota": "Kabupaten Bima",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "STIKES Bina Usada Bali": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "STIKES Griya Husada Sumbawa": {
+        "kota": "Kabupaten Sumbawa",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "STIKES Hamzar Memben Lombok Timur": {
+        "kota": "Kabupaten Lombok Timur",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "STIKES Wira Medika Bali": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "STIKES Yarsi Mataram": {
+        "kota": "Kota Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "STKIP Al Amin Dompu": {
+        "kota": "Kabupaten Dompu",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "STKIP Bima": {
+        "kota": "Kabupaten Bima",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "STKIP Harapan Bima": {
+        "kota": "Kabupaten Bima",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "STKIP Paracendekia N W Sumbawa": {
+        "kota": "Kabupaten Sumbawa",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "STKIP Taman Siswa Bima": {
+        "kota": "Kabupaten Bima",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "STKIP Yapis Dompu": {
+        "kota": "Kabupaten Dompu",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "STMIK Bandung Bali": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "Universitas 45 Mataram": {
+        "kota": "Kota Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Bali Internasional": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "Universitas Bumigora": {
+        "kota": "Kota Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Cordova": {
+        "kota": "Kabupaten Sumbawa Barat",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Dhyana Pura": {
+        "kota": "Kabupaten Badung",
+        "provinsi": "Bali"
+    },
+    "Universitas Dwijendra": {
+        "kota": "Kota Denpasar",
+        "provinsi": "Bali"
+    },
+    "Universitas Gunung Rinjani": {
+        "kota": "Kabupaten Lombok Timur",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Hamzanwadi": {
+        "kota": "Kabupaten Lombok Timur",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Hindu Indonesia": {
+        "kota": "Denpasar",
+        "provinsi": "Bali"
+    },
+    "Universitas Islam Al-azhar": {
+        "kota": "Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Mahasaraswati Denpasar": {
+        "kota": "Denpasar",
+        "provinsi": "Bali"
+    },
+    "Universitas Mahendradatta": {
+        "kota": "Denpasar",
+        "provinsi": "Bali"
+    },
+    "Universitas Mbojo Bima": {
+        "kota": "Bima",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Muhammadiyah Bima": {
+        "kota": "Bima",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Muhammadiyah Mataram": {
+        "kota": "Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Nahdlatul Ulama Nusa Tenggara Barat": {
+        "kota": "Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Nahdlatul Wathan Mataram": {
+        "kota": "Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Ngurah Rai": {
+        "kota": "Denpasar",
+        "provinsi": "Bali"
+    },
+    "Universitas Pendidikan Mandalika": {
+        "kota": "Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Pendidikan Nasional": {
+        "kota": "Denpasar",
+        "provinsi": "Bali"
+    },
+    "Universitas PGRI Mahadewa Indonesia": {
+        "kota": "Denpasar",
+        "provinsi": "Bali"
+    },
+    "Universitas\n  PGRI Mahadewa Indonesia": {
+        "kota": "Denpasar",
+        "provinsi": "Bali"
+    },
+    "Universitas Primakara": {
+        "kota": "Denpasar",
+        "provinsi": "Bali"
+    },
+    "Universitas Qamarul Huda Badaruddin Bagu": {
+        "kota": "Lombok Tengah",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Samawa": {
+        "kota": "Sumbawa",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Teknologi Mataram": {
+        "kota": "Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Teknologi Sumbawa": {
+        "kota": "Sumbawa",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Universitas Triatma Mulya": {
+        "kota": "Badung",
+        "provinsi": "Bali"
+    },
+    "Universitas Warmadewa": {
+        "kota": "Denpasar",
+        "provinsi": "Bali"
+    },
+    "Institut Bisnis dan Keuangan Nitro": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Institut Ilmu Sosial dan Bisnis Andi Sapada": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Institut Kesehatan dan Bisnis Kurnia Jaya Persada": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Kesehatan dan Bisnis St. Fatimah Mamuju": {
+        "kota": "Mamuju",
+        "provinsi": "Sulawesi Barat"
+    },
+    "Institut Kesehatan dan Teknologi Buton Raya": {
+        "kota": "Bau-Bau",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Institut Sains Teknologi dan Kesehatan 'Aisyiyah Kendari": {
+        "kota": "Kendari",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Institut Teknologi dan Bisnis Kalla": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Institut Teknologi dan Bisnis Maritim Balik Diwa": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Institut Teknologi dan Bisnis Muhammadiyah Kolaka": {
+        "kota": "Kolaka",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Institut Teknologi dan Bisnis MUhammadiyah Polewali Mandar": {
+        "kota": "Polewali Mandar",
+        "provinsi": "Sulawesi Barat"
+    },
+    "Institut Teknologi dan Bisnis Nobel Indonesia": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Institut Teknologi dan Bisnis Nobel\n  Indonesia": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Institut Teknologi dan Kesehatan Avicenna": {
+        "kota": "Kendari",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Institut Teknologi dan Kesehatan Tri Tunas Nasional": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "INSTITUT TEKNOLOGI PERTANIAN": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Institut Turatea Indonesia": {
+        "kota": "Jeneponto",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Administrasi Al Gazali Barru": {
+        "kota": "Barru",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Administrasi YAPPI Makassa": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Amkop Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Ciputra Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Enam Enam Kendari": {
+        "kota": "Kendari",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Makassar Bongaya": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Tri Dharma\n  Nusantara": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Tri Dharma Nusantara": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah\n  Tinggi Ilmu Ekonomi Wira Bhakti": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi YPUP Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Karya Kesehatan": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Nani Hasanuddin": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Panrita Husada": {
+        "kota": "Bulukumba",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Stella Maris Makasar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Tamalatea Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Yapika": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Pertanian Wuna Raha": {
+        "kota": "Muna",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Sekolah Tinggi Manajemen Informatika Dan Komputer Amika Soppeng": {
+        "kota": "Soppeng",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Teknologi Nusantara Indonesia": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "STIKES Amanah Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "STIKES Andini Persada": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "STIKES Bhakti Pertiwi Luwu Raya": {
+        "kota": "Luwu",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "STIKES Bina Generasi Polewali Mandar": {
+        "kota": "Polewali Mandar",
+        "provinsi": "Sulawesi Barat"
+    },
+    "STIKES Gema Insan Akademik": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "STIKES Graha Edukasi": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "STIKES Pelita Ibu": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "STIKES Tanawali Takalar": {
+        "kota": "Takalar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "STIM Lasharan Jaya Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "STKIP Andi Mattappa": {
+        "kota": "Pangkajene dan Kepulauan",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "STKIP Darud Da wah Wal Irsyad Pinrang": {
+        "kota": "Pinrang",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "STMIK Catur Sakti Kendari": {
+        "kota": "Kendari",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Universitas Al Asyariah Mandar": {
+        "kota": "Polewali Mandar",
+        "provinsi": "Sulawesi Barat"
+    },
+    "Universitas Almarisah Madani": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Andi Djemma Palopo": {
+        "kota": "Palopo",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Atma Jaya Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Bosowa": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Cahaya Prima": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Cokroaminoto Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Cokroaminoto Palopo": {
+        "kota": "Palopo",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Dayanu Ikhsanuddin": {
+        "kota": "Baubau",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Universitas Dipa Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Fajar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Handayani Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Ichsan Sidenreng Rappang": {
+        "kota": "Sidenreng Rappang",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Indonesia Timur": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Islam Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Karya Persada Muna": {
+        "kota": "Muna",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Universitas Kristen Indonesia Paulus": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Kristen Indonesia Toraja": {
+        "kota": "Tana Toraja",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Lakidende Unaaha": {
+        "kota": "Konawe",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Universitas Lamappapoleonro": {
+        "kota": "Bone",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Mandala Waluya": {
+        "kota": "Kendari",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Universitas Megarezky": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Muhammadiyah Bone": {
+        "kota": "Bone",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Muhammadiyah Bulukumba": {
+        "kota": "Bulukumba",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Muhammadiyah Buton": {
+        "kota": "Buton",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Universitas Muhammadiyah Enrekang": {
+        "kota": "Enrekang",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Muhammadiyah Kendari": {
+        "kota": "Kendari",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Universitas Muhammadiyah Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Muhammadiyah Mamuju": {
+        "kota": "Mamuju",
+        "provinsi": "Sulawesi Barat"
+    },
+    "Universitas Muhammadiyah Palopo": {
+        "kota": "Palopo",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Muhammadiyah Pare- pare": {
+        "kota": "Parepare",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Muhammadiyah Sidenreng Rappang": {
+        "kota": "Sidenreng Rappang",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Muhammadiyah Sinjai": {
+        "kota": "Sinjai",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Muslim Buton": {
+        "kota": "Buton",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Universitas Muslim Indonesia": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Muslim Maros": {
+        "kota": "Maros",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Nahdlatul Ulama Sulawesi Tenggara": {
+        "kota": "Kendari",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Universitas Pancasakti": {
+        "kota": "Tegal",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Patompo": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Pejuang Republik Indonesia": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Pepabri Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Puangrimaggalatung": {
+        "kota": "Wajo",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Sawerigading Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Sulawesi Tenggara": {
+        "kota": "Kendari",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Universitas Syekh Yusuf Al Makassari Gowa": {
+        "kota": "Gowa",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Teknologi Akba Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Universitas Teknologi Sulawesi": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Institut Administrasi dan Kesehatan Setih Setio Muara Bungo": {
+        "kota": "Muara Bungo",
+        "provinsi": "Jambi"
+    },
+    "Institut Az Zuhra": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Bisnis Dan Teknologi Pelita Indonesia": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "Institut Kesehatan Mitra Bunda": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Kesehatan Payung Negeri Pekanbaru": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "Institut Teknologi Batam": {
+        "kota": "Batam",
+        "provinsi": "Kepulauan Riau"
+    },
+    "Institut Teknologi Bisnis Riau": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "Institut Teknologi dan Bisnis Indobaru Nasional": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi dan Sains Nahdlatul Ulama Jambi": {
+        "kota": "Jambi",
+        "provinsi": "Jambi"
+    },
+    "Institut Teknologi Mitra Gama": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi Padang": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Institut Teknologi Perkebunan Pelalawan Indonesia": {
+        "kota": "Pelalawan",
+        "provinsi": "Riau"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Dharma Putra Pekanbaru": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Galileo": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Sakti Alam Kerinci": {
+        "kota": "Kerinci",
+        "provinsi": "Jambi"
+    },
+    "Sekolah Tinggi Ilmu Farmasi Padang": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Sekolah Tinggi Ilmu Farmasi Riau": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Baiturrahim": {
+        "kota": "Jambi",
+        "provinsi": "Jambi"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Harapan Ibu Jambi": {
+        "kota": "Jambi",
+        "provinsi": "Jambi"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Syedza Saintika": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Sekolah Tinggi Teknologi Dumai": {
+        "kota": "Dumai",
+        "provinsi": "Riau"
+    },
+    "Sekolah Tinggi Teknologi Indonesia Tanjung Pinang": {
+        "kota": "Tanjung Pinang",
+        "provinsi": "Kepulauan Riau"
+    },
+    "Sekolah Tinggi Teknologi Industri Padang": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Sekolah Tinggi Teknologi Payakumbuh": {
+        "kota": "Payakumbuh",
+        "provinsi": "Sumatera Barat"
+    },
+    "Sekolah Tinggi Teknologi Pekanbaru": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "STIE Widyaswara Indonesia": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "STIKES Dharma Landbouw": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "STIKES Mercubaktijaya Padang": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "STIKES Pekanbaru Medical Center": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "STKIP Ahlussunnah": {
+        "kota": "Bukittinggi",
+        "provinsi": "Sumatera Barat"
+    },
+    "STKIP Aisyiyah Riau": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "STKIP Muhammadiyah Sungai Penuh": {
+        "kota": "Sungai Penuh",
+        "provinsi": "Jambi"
+    },
+    "STKIP Muhammadiyah Sungai\n  Penuh": {
+        "kota": "Sungai Penuh",
+        "provinsi": "Jambi"
+    },
+    "Universitas Abdurrab": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "Universitas Adiwangsa Jambi": {
+        "kota": "Jambi",
+        "provinsi": "Jambi"
+    },
+    "Universitas Adzkia": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Awal Bros": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "Universitas Baiturrahmah": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Batam": {
+        "kota": "Batam",
+        "provinsi": "Kepulauan Riau"
+    },
+    "Universitas Batanghari Jambi": {
+        "kota": "Jambi",
+        "provinsi": "Jambi"
+    },
+    "Universitas Bung Hatta": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Dharma Andalas": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Dharmas Indonesia": {
+        "kota": "Solok",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Dinamika Bangsa": {
+        "kota": "Jambi",
+        "provinsi": "Jambi"
+    },
+    "Universitas Dumai": {
+        "kota": "Dumai",
+        "provinsi": "Riau"
+    },
+    "Universitas Ekasakti": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Hang Tuah Pekanbaru": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "Universitas Ibnu Sina": {
+        "kota": "Batam",
+        "provinsi": "Kepulauan Riau"
+    },
+    "Universitas Islam Indragiri": {
+        "kota": "Indragiri Hilir",
+        "provinsi": "Riau"
+    },
+    "Universitas Islam Kuantan Singingi": {
+        "kota": "Kuantan Singingi",
+        "provinsi": "Riau"
+    },
+    "Universitas Islam Riau": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "Universitas Karimun": {
+        "kota": "Karimun",
+        "provinsi": "Kepulauan Riau"
+    },
+    "Universitas Lancang Kuning": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "Universitas Mahaputra\n  Muhammad Yamin": {
+        "kota": "Solok",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Mahaputra Muhammad Yamin": {
+        "kota": "Solok",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Metamedia": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas\n  Mohammad Natsir Bukittinggi": {
+        "kota": "Bukittinggi",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Muara Bungo": {
+        "kota": "Bungo",
+        "provinsi": "Jambi"
+    },
+    "Universitas Muhammadiyah Jambi": {
+        "kota": "Jambi",
+        "provinsi": "Jambi"
+    },
+    "Universitas Muhammadiyah Muara Bungo": {
+        "kota": "Bungo",
+        "provinsi": "Jambi"
+    },
+    "Universitas Muhammadiyah Muara\n  Bungo": {
+        "kota": "Bungo",
+        "provinsi": "Jambi"
+    },
+    "Universitas Muhammadiyah Riau": {
+        "kota": "Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "Universitas Muhammadiyah Sumatera Barat": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Nagoya Indonesia": {
+        "kota": "Batam",
+        "provinsi": "Kepulauan Riau"
+    },
+    "Universitas Nahdlatul Ulama Sumatera Barat": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Pahlawan Tuanku Tambusai": {
+        "kota": "Kampar",
+        "provinsi": "Riau"
+    },
+    "Universitas Pasir Pengaraian": {
+        "kota": "Rokan Hulu",
+        "provinsi": "Riau"
+    },
+    "Universitas Perintis Indonesia": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas\n  Prima Nusantara Bukittinggi": {
+        "kota": "Bukittinggi",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Putera Batam": {
+        "kota": "Batam",
+        "provinsi": "Kepulauan Riau"
+    },
+    "Universitas Putra Indonesia Yptk\n  Padang": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Riau Kepulauan": {
+        "kota": "Batam",
+        "provinsi": "Kepulauan Riau"
+    },
+    "Universitas Rokania": {
+        "kota": "Pasaman Barat",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Universal": {
+        "kota": "Batam",
+        "provinsi": "Kepulauan Riau"
+    },
+    "IKIP PGRI Kaltim": {
+        "kota": "Samarinda",
+        "provinsi": "Kalimantan Timur"
+    },
+    "IKIP PGRI Pontianak": {
+        "kota": "Kota Pontianak",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Institut Bisnis dan Ekonomi Indonesia": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Shanti Bhuana": {
+        "kota": "Kabupaten Bengkayang",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Institut Teknologi dan Bisnis Sabda Setia": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi dan Kesehatan Muhammadiyah Kalimantan Barat": {
+        "kota": "Kota Pontianak",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Sekolah Tinggi Ilmu Administrasi Tabalong": {
+        "kota": "Kabupaten Tabalong",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Balikpapan": {
+        "kota": "Kota Balikpapan",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Nusantara Sangatta": {
+        "kota": "Kabupaten Kutai Timur",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan ISFI Banjarmasin": {
+        "kota": "Kota Banjarmasin",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Mutiara Mahakam Samarinda": {
+        "kota": "Kota Samarinda",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan\n  Mutiara Mahakam Samarinda": {
+        "kota": "Kota Samarinda",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Sekolah\n  Tinggi Ilmu Kesehatan Samarinda": {
+        "kota": "Kota Samarinda",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Sekolah\n  Tinggi Keguruan dan Ilmu Pendidikan Melawi": {
+        "kota": "Kabupaten Melawi",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Sekolah Tinggi Keguruan dan Ilmu Pendidikan Melawi": {
+        "kota": "Kabupaten Melawi",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Sekolah Tinggi Pertanian Kutai Timur": {
+        "kota": "Kabupaten Kutai Timur",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Sekolah Tinggi Teknologi Migas": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "STIKES Borneo Cendekia Medika": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "STIKES Suaka Insan": {
+        "kota": "Kota Banjarmasin",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "STIKES Yarsi Pontianak": {
+        "kota": "Kota Pontianak",
+        "provinsi": "Kalimantan Barat"
+    },
+    "STKIP Islam Sabilal Muhtadin Banjarmasin": {
+        "kota": "Kota Banjarmasin",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "STKIP Persada Khatulistiwa": {
+        "kota": "Kabupaten Sintang",
+        "provinsi": "Kalimantan Barat"
+    },
+    "STKIP Singkawang": {
+        "kota": "Kota Singkawang",
+        "provinsi": "Kalimantan Barat"
+    },
+    "STMIK Banjarbaru": {
+        "kota": "Kota Banjarbaru",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "STMIK Palangka Raya": {
+        "kota": "Kota Palangka Raya",
+        "provinsi": "Kalimantan Tengah"
+    },
+    "STMIK PPKIA Tarakanita\n  Rahmawati Tarakan": {
+        "kota": "Kota Tarakan",
+        "provinsi": "Kalimantan Utara"
+    },
+    "STMIK Widya Cipta Dharma": {
+        "kota": "Kota Samarinda",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Universitas 17 Agustus 1945\n  Samarinda": {
+        "kota": "Kota Samarinda",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Universitas 17 Agustus 1945 Samarinda": {
+        "kota": "Kota Samarinda",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Universitas Antakusuma": {
+        "kota": "Kota Pangkalan Bun",
+        "provinsi": "Kalimantan Tengah"
+    },
+    "Universitas Balikpapan": {
+        "kota": "Kota Balikpapan",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Universitas Borneo Lestari": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Cahaya Bangsa": {
+        "kota": "Banjarmasin",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "Universitas Darwan Ali": {
+        "kota": "Kabupaten Seruyan",
+        "provinsi": "Kalimantan Tengah"
+    },
+    "Universitas Islam Kalimantan Muhammad Arsyad Al Banjari Banjarmasin": {
+        "kota": "Kota Banjarmasin",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "Universitas Kaltara": {
+        "kota": "Kota Tarakan",
+        "provinsi": "Kalimantan Utara"
+    },
+    "Universitas Kapuas": {
+        "kota": "Kota Sintang",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Universitas Katolik Santo Agustinus Hippo": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Muhammadiyah Banjarmasin": {
+        "kota": "Kota Banjarmasin",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "Universitas Muhammadiyah Kalimantan Timur": {
+        "kota": "Kota Samarinda",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Universitas\n  Muhammadiyah Kalimantan Timur": {
+        "kota": "Kota Samarinda",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Universitas Muhammadiyah Palangka\n  Raya": {
+        "kota": "Kota Palangka Raya",
+        "provinsi": "Kalimantan Tengah"
+    },
+    "Universitas Muhammadiyah Palangka Raya": {
+        "kota": "Kota Palangka Raya",
+        "provinsi": "Kalimantan Tengah"
+    },
+    "Universitas Muhammadiyah Pontianak": {
+        "kota": "Kota Pontianak",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Universitas Muhammadiyah Sampit": {
+        "kota": "Kabupaten Kotawaringin Timur",
+        "provinsi": "Kalimantan Tengah"
+    },
+    "Universitas Mulia": {
+        "kota": "Kota Balikpapan",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Universitas Nahdlatul Ulama Kalimantan Barat": {
+        "kota": "Kota Pontianak",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Universitas Nahdlatul Ulama Kalimantan Selatan": {
+        "kota": "Kota Banjarmasin",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "Universitas Nahdlatul Ulama Kalimantan Timur": {
+        "kota": "Samarinda",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Universitas Oso": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Panca Bhakti": {
+        "kota": "Kota Pontianak",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Universitas PGRI Kalimantan": {
+        "kota": "Banjarmasin",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "Universitas PGRI Palangka Raya": {
+        "kota": "Palangka Raya",
+        "provinsi": "Kalimantan Tengah"
+    },
+    "Universitas Sari Mulia": {
+        "kota": "Banjarmasin",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Makariwo Halmahera": {
+        "kota": "Halmahera Barat",
+        "provinsi": "Maluku Utara"
+    },
+    "STIKES Maluku Husada": {
+        "kota": "Ambon",
+        "provinsi": "Maluku"
+    },
+    "STIKES Pasapua Ambon": {
+        "kota": "Ambon",
+        "provinsi": "Maluku"
+    },
+    "STKIP Gotong Royong Masohi": {
+        "kota": "Maluku Tengah",
+        "provinsi": "Maluku"
+    },
+    "STKIP Kie Raha": {
+        "kota": "Ternate",
+        "provinsi": "Maluku Utara"
+    },
+    "STMIK Tidore Mandiri": {
+        "kota": "Tidore Kepulauan",
+        "provinsi": "Maluku Utara"
+    },
+    "Universitas Banda Naira": {
+        "kota": "Maluku Tengah",
+        "provinsi": "Maluku"
+    },
+    "Universitas Bumi Hijrah Tidore": {
+        "kota": "Tidore Kepulauan",
+        "provinsi": "Maluku Utara"
+    },
+    "Universitas Darussalam Ambon": {
+        "kota": "Ambon",
+        "provinsi": "Maluku"
+    },
+    "Universitas Halmahera": {
+        "kota": "Halmahera Utara",
+        "provinsi": "Maluku Utara"
+    },
+    "Universitas\n  Halmahera": {
+        "kota": "Halmahera Utara",
+        "provinsi": "Maluku Utara"
+    },
+    "Universitas Hein Namotemo": {
+        "kota": "Halmahera Utara",
+        "provinsi": "Maluku Utara"
+    },
+    "Universitas Iqra Buru": {
+        "kota": "Buru",
+        "provinsi": "Maluku"
+    },
+    "Universitas Kristen Indonesia Maluku": {
+        "kota": "Ambon",
+        "provinsi": "Maluku"
+    },
+    "Universitas Lelemuku Saumlaki": {
+        "kota": "Kepulauan Tanimbar",
+        "provinsi": "Maluku"
+    },
+    "Universitas Muhammadiyah Maluku": {
+        "kota": "Ambon",
+        "provinsi": "Maluku"
+    },
+    "Universitas Muhammadiyah Maluku Utara": {
+        "kota": "Ternate",
+        "provinsi": "Maluku Utara"
+    },
+    "Universitas Muhammadiyah Maluku\n  Utara": {
+        "kota": "Ternate",
+        "provinsi": "Maluku Utara"
+    },
+    "Universitas Nuku": {
+        "kota": "Tidore Kepulauan",
+        "provinsi": "Maluku Utara"
+    },
+    "Universitas Pasifik Morotai": {
+        "kota": "Pulau Morotai",
+        "provinsi": "Maluku Utara"
+    },
+    "Sekolah\n  Tinggi Ilmu Administrasi Nasional": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Administrasi Pelita\n  Nusantara": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Sabang": {
+        "kota": "Sabang",
+        "provinsi": "Aceh"
+    },
+    "Sekolah Tinggi Ilmu Hukum Al-Banna": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Kehutanan Pante Kulu": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Jabal Ghafur": {
+        "kota": "Pidie",
+        "provinsi": "Aceh"
+    },
+    "STIKES Assyifa Aceh": {
+        "kota": "Bireuen",
+        "provinsi": "Aceh"
+    },
+    "STIKES Bustanul Ulum Langsa": {
+        "kota": "Langsa",
+        "provinsi": "Aceh"
+    },
+    "STIKES Medika Nurul Islam": {
+        "kota": "Bireuen",
+        "provinsi": "Aceh"
+    },
+    "STIKES Medika Seramoe Barat": {
+        "kota": "Aceh Barat",
+        "provinsi": "Aceh"
+    },
+    "STIKES Muhammadiyah Lhokseumawe": {
+        "kota": "Lhokseumawe",
+        "provinsi": "Aceh"
+    },
+    "STISIP Al Washliyah Banda Aceh": {
+        "kota": "Banda Aceh",
+        "provinsi": "Aceh"
+    },
+    "STKIP Al- Washliyah": {
+        "kota": "Banda Aceh",
+        "provinsi": "Aceh"
+    },
+    "STKIP Muhammadiyah Aceh Barat Daya": {
+        "kota": "Aceh Barat Daya",
+        "provinsi": "Aceh"
+    },
+    "Universitas Abulyatama": {
+        "kota": "Aceh Besar",
+        "provinsi": "Aceh"
+    },
+    "Universitas Almuslim": {
+        "kota": "Bireuen",
+        "provinsi": "Aceh"
+    },
+    "Universitas Bina Bangsa Getsempena": {
+        "kota": "Banda Aceh",
+        "provinsi": "Aceh"
+    },
+    "Universitas\n  Bina Bangsa Getsempena": {
+        "kota": "Banda Aceh",
+        "provinsi": "Aceh"
+    },
+    "Universitas Bumi Persada": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Iskandar Muda": {
+        "kota": "Banda Aceh",
+        "provinsi": "Aceh"
+    },
+    "Universitas\n  Islam Kebangsaan Indonesia": {
+        "kota": "Bireuen",
+        "provinsi": "Aceh"
+    },
+    "Universitas Jabal Ghafur": {
+        "kota": "Pidie",
+        "provinsi": "Aceh"
+    },
+    "Universitas Muhammadiyah Aceh": {
+        "kota": "Banda Aceh",
+        "provinsi": "Aceh"
+    },
+    "Universitas Muhammadiyah Mahakarya Aceh": {
+        "kota": "Banda Aceh",
+        "provinsi": "Aceh"
+    },
+    "Universitas Sains Cut Nyak Dhien": {
+        "kota": "Langsa",
+        "provinsi": "Aceh"
+    },
+    "Universitas Serambi Mekkah": {
+        "kota": "Banda Aceh",
+        "provinsi": "Aceh"
+    },
+    "Universitas Ubudiyah Indonesia": {
+        "kota": "Banda Aceh",
+        "provinsi": "Aceh"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Port Numbay Jayapura": {
+        "kota": "Kota Jayapura",
+        "provinsi": "Papua"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Jayapura": {
+        "kota": "Kota Jayapura",
+        "provinsi": "Papua"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Papua": {
+        "kota": "Kota Jayapura",
+        "provinsi": "Papua"
+    },
+    "Sekolah Tinggi Ilmu Pertanian Petra Baliem Wamena": {
+        "kota": "Kabupaten Jayawijaya",
+        "provinsi": "Papua Pegunungan"
+    },
+    "STIPER Santo Thomas Aquinas Jayapura": {
+        "kota": "Kota Jayapura",
+        "provinsi": "Papua"
+    },
+    "STKIP Muhammadiyah Manokwari": {
+        "kota": "Kabupaten Manokwari",
+        "provinsi": "Papua Barat"
+    },
+    "STMIK Kreatindo Manokwari": {
+        "kota": "Kabupaten Manokwari",
+        "provinsi": "Papua Barat"
+    },
+    "Universitas Amal Ilmiah Yapis Wamena": {
+        "kota": "Wamena",
+        "provinsi": "Papua Pegunungan"
+    },
+    "Universitas Muhammadiyah Papua": {
+        "kota": "Kota Jayapura",
+        "provinsi": "Papua"
+    },
+    "Universitas Muhammadiyah Sorong": {
+        "kota": "Kota Sorong",
+        "provinsi": "Papua Barat Daya"
+    },
+    "Universitas Ottow Geissler": {
+        "kota": "Kota Jayapura",
+        "provinsi": "Papua"
+    },
+    "Universitas Pendidikan Muhammadiyah Sorong": {
+        "kota": "Kota Sorong",
+        "provinsi": "Papua Barat Daya"
+    },
+    "Universitas Sains Dan Teknologi Jayapura": {
+        "kota": "Kota Jayapura",
+        "provinsi": "Papua"
+    },
+    "Universitas Satya Wiyata Mandala": {
+        "kota": "Kabupaten Nabire",
+        "provinsi": "Papua Tengah"
+    },
+    "Universitas Sepuluh Nopember Papua": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Victory Sorong": {
+        "kota": "Kota Sorong",
+        "provinsi": "Papua Barat Daya"
+    },
+    "Universitas Werisar": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Yapis Papua": {
+        "kota": "Kota Jayapura",
+        "provinsi": "Papua"
+    },
+    "IKIP Muhammadiyah Maumere": {
+        "kota": "Kabupaten Sikka",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Institut Filsafat dan Teknologi Kreatif Ledalero": {
+        "kota": "Maumere",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Institut Keguruan dan Teknologi Larantuka": {
+        "kota": "Kabupaten Flores Timur",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Sekolah Tinggi Keguruan dan Ilmu Pendidikan Citra Bakti": {
+        "kota": "Ngada",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Sekolah Tinggi Pembangunan Masyarakat Santa Ursula": {
+        "kota": "Kabupaten Ende",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Sekolah Tinggi Pertanian Flores Bajawa": {
+        "kota": "Ngada",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "STIKES Maranatha Kupang": {
+        "kota": "Kota Kupang",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas Aryasatya Deo Muri": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Citra Bangsa": {
+        "kota": "Kota Kupang",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas Flores": {
+        "kota": "Kabupaten Ende",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas Katolik Indonesia Santu Paulus Ruteng": {
+        "kota": "Kabupaten Manggarai",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas Katolik Weetebula": {
+        "kota": "Kabupaten Sumba Barat Daya",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas Katolik Widya Mandira Kupang": {
+        "kota": "Kota Kupang",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas Kristen Artha Wacana": {
+        "kota": "Kota Kupang",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas Kristen Wira Wacana Sumba": {
+        "kota": "Waingapu",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas Muhammadiyah Kupang": {
+        "kota": "Kota Kupang",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas Nusa Nipa": {
+        "kota": "Kabupaten Sikka",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas Persatuan Guru 1945 NTT": {
+        "kota": "Kota Kupang",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas San Pedro": {
+        "kota": "Kota Kupang",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Universitas Tribuana Kalabahi": {
+        "kota": "Kabupaten Alor",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Institut Teknologi Kesehatan dan Bisnis Graha Ananda": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Teknologi Minaesa": {
+        "kota": "Kabupaten Minahasa",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Pioner Manado": {
+        "kota": "Kota Manado",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Widya Darma Kotamobagu": {
+        "kota": "Kota Kotamobagu",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Sekolah Tinggi Ilmu Farmasi Pelita Mas Palu": {
+        "kota": "Kota Palu",
+        "provinsi": "Sulawesi Tengah"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Husada Mandiri Poso": {
+        "kota": "Kabupaten Poso",
+        "provinsi": "Sulawesi Tengah"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Indonesia Jaya": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Pertanian Mujahidin Toli-toli": {
+        "kota": "Toli-toli",
+        "provinsi": "Sulawesi Tengah"
+    },
+    "Sekolah Tinggi Perikanan Dan Kelautan Palu": {
+        "kota": "Kota Palu",
+        "provinsi": "Sulawesi Tengah"
+    },
+    "STIKES Bakti Nusantara Gorontalo": {
+        "kota": "Kota Gorontalo",
+        "provinsi": "Gorontalo"
+    },
+    "STMIK Adhi Guna": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Alkhairaat": {
+        "kota": "Palu",
+        "provinsi": "Sulawesi Tengah"
+    },
+    "Universitas Bina Mandiri Gorontalo": {
+        "kota": "Gorontalo",
+        "provinsi": "Gorontalo"
+    },
+    "Universitas Bina Taruna Gorontalo": {
+        "kota": "Gorontalo",
+        "provinsi": "Gorontalo"
+    },
+    "Universitas Dumoga Bone Kotamubagu": {
+        "kota": "Kotamobagu",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Universitas Gorontalo": {
+        "kota": "Gorontalo",
+        "provinsi": "Gorontalo"
+    },
+    "Universitas Ichsan Gorontalo": {
+        "kota": "Gorontalo",
+        "provinsi": "Gorontalo"
+    },
+    "Universitas Ichsan Gorontalo Utara": {
+        "kota": "Gorontalo Utara",
+        "provinsi": "Gorontalo"
+    },
+    "Universitas Katolik De La Salle": {
+        "kota": "Manado",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Universitas Klabat": {
+        "kota": "Minahasa Utara",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Universitas Kristen Indonesia Tomohon": {
+        "kota": "Tomohon",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Universitas Kristen Tentena": {
+        "kota": "Poso",
+        "provinsi": "Sulawesi Tengah"
+    },
+    "Universitas Madako Tolitoli": {
+        "kota": "Tolitoli",
+        "provinsi": "Sulawesi Tengah"
+    },
+    "Universitas Muhammadiyah Gorontalo": {
+        "kota": "Gorontalo",
+        "provinsi": "Gorontalo"
+    },
+    "Universitas Muhammadiyah Luwuk Banggai": {
+        "kota": "Banggai",
+        "provinsi": "Sulawesi Tengah"
+    },
+    "Universitas Muhammadiyah Manado": {
+        "kota": "Manado",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Universitas Muhammadiyah Palu": {
+        "kota": "Palu",
+        "provinsi": "Sulawesi Tengah"
+    },
+    "Universitas Nahdlatul Ulama Gorontalo": {
+        "kota": "Gorontalo",
+        "provinsi": "Gorontalo"
+    },
+    "Universitas Pohuwato": {
+        "kota": "Pohuwato",
+        "provinsi": "Gorontalo"
+    },
+    "Universitas Prisma": {
+        "kota": "Manado",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Universitas Sari Putra Indonesia Tomohon": {
+        "kota": "Tomohon",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Universitas Sintuwu Maroso Poso": {
+        "kota": "Poso",
+        "provinsi": "Sulawesi Tengah"
+    },
+    "Universitas Teknologi Sulawesi Utara": {
+        "kota": "Manado",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Universitas Tompotika Luwuk Banggai": {
+        "kota": "Banggai",
+        "provinsi": "Sulawesi Tengah"
+    },
+    "Universitas Trinita": {
+        "kota": "Manado",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Universitas Widya Nusantara": {
+        "kota": "Manado",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Politeknik Manufaktur Negeri Bangka Belitung": {
+        "kota": "Bangka",
+        "provinsi": "Kepulauan Bangka Belitung"
+    },
+    "Politeknik Maritim Negeri Indonesia": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Politeknik Negeri Ambon": {
+        "kota": "Ambon",
+        "provinsi": "Maluku"
+    },
+    "Politeknik Negeri Banyuwangi": {
+        "kota": "Banyuwangi",
+        "provinsi": "Jawa Timur"
+    },
+    "Politeknik Negeri Fakfak": {
+        "kota": "Fakfak",
+        "provinsi": "Papua Barat"
+    },
+    "Politeknik Negeri Jember": {
+        "kota": "Jember",
+        "provinsi": "Jawa Timur"
+    },
+    "Politeknik Negeri Lampung": {
+        "kota": "Bandar Lampung",
+        "provinsi": "Lampung"
+    },
+    "Politeknik Negeri Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Politeknik Negeri Manado": {
+        "kota": "Manado",
+        "provinsi": "Sulawesi Utara"
+    },
+    "Politeknik Negeri Medan": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Politeknik Negeri Pontianak": {
+        "kota": "Pontianak",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Politeknik Negeri Sambas": {
+        "kota": "Sambas",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Politeknik Negeri Sriwijaya": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Politeknik Perikanan Negeri Tual": {
+        "kota": "Tual",
+        "provinsi": "Maluku"
+    },
+    "Politeknik Pertanian Negeri Pangkajene Kepulauan": {
+        "kota": "Pangkajene Kepulauan",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Politeknik Pertanian Negeri Payakumbuh": {
+        "kota": "Payakumbuh",
+        "provinsi": "Sumatera Barat"
+    },
+    "Politeknik Unggulan Cipta Mandiri": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "STIKES Santa Elisabeth Medan": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Haji Sumatera Utara": {
+        "kota": "Medan",
+        "provinsi": "Sumatera Utara"
+    },
+    "Universitas Nias Raya": {
+        "kota": "Nias",
+        "provinsi": "Sumatera Utara"
+    },
+    "Politeknik Akamigas Palembang": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Aprin": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Sekolah Tinggi Ilmu Hukum Sumpah Pemuda": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Panca Bhakti": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "STIA Bala Putra Dewa": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Anak Bangsa": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Universitas Dharma Wacana": {
+        "kota": "Metro",
+        "provinsi": "Lampung"
+    },
+    "Universitas Muhammadiyah Ahmad Dahlan Palembang": {
+        "kota": "Palembang",
+        "provinsi": "Sumatera Selatan"
+    },
+    "Akademi Akuntansi Borobudur": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Institut Pariwisata Trisakti": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Politeknik Jakarta Internasional": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Ilmu Hukum IBLAM": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan IKIFA": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan RS Husada": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Akademi Kebidanan Prima Husada": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Akademi Maritim Suaka Bahari": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Institut Bisnis Muhammadiyah Bekasi": {
+        "kota": "Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "Politeknik Enjinering Indorama": {
+        "kota": "Purwakarta",
+        "provinsi": "Jawa Barat"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Tri Bhakti": {
+        "kota": "Bekasi",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Bhakti Husada Indonesia": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Muhammadiyah Ahmad Dahlan Cirebon": {
+        "kota": "Cirebon",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Muhammadiyah Cileungsi": {
+        "kota": "Bogor",
+        "provinsi": "Jawa Barat"
+    },
+    "Universitas Teknologi Bandung": {
+        "kota": "Bandung",
+        "provinsi": "Jawa Barat"
+    },
+    "Akademi Farmasi Indonesia Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "DI Yogyakarta"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Bantul": {
+        "kota": "Bantul",
+        "provinsi": "DI Yogyakarta"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Bethesda Yakkum": {
+        "kota": "Yogyakarta",
+        "provinsi": "DI Yogyakarta"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan YKY Yogyakarta": {
+        "kota": "Yogyakarta",
+        "provinsi": "DI Yogyakarta"
+    },
+    "Sekolah Tinggi Ilmu Manajemen YKPN": {
+        "kota": "Yogyakarta",
+        "provinsi": "DI Yogyakarta"
+    },
+    "Sekolah Tinggi Teknologi Kedirgantaraan": {
+        "kota": "Yogyakarta",
+        "provinsi": "DI Yogyakarta"
+    },
+    "Universitas AKPRIND Indonesia": {
+        "kota": "Yogyakarta",
+        "provinsi": "DI Yogyakarta"
+    },
+    "Akademi Akuntansi Effendi Harahap": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Politeknik Pratama Mulia": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "Politeknik Santo Paulus Surakarta": {
+        "kota": "Surakarta",
+        "provinsi": "Jawa Tengah"
+    },
+    "STIKES Telogorejo Semarang": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "STKIP Majenang": {
+        "kota": "Cilacap",
+        "provinsi": "Jawa Tengah"
+    },
+    "STMIK AKI Pati": {
+        "kota": "Pati",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Aki": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Maritim AMNI": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Muhammadiyah Klaten": {
+        "kota": "Klaten",
+        "provinsi": "Jawa Tengah"
+    },
+    "Universitas Pandanaran": {
+        "kota": "Semarang",
+        "provinsi": "Jawa Tengah"
+    },
+    "Akademi Keperawatan Dian Husada": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Politeknik Kesehatan Putra Indonesia Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Politeknik NSC Surabaya": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "STIA Dan Manajemen Kepelabuhan Barunawati": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "STIKES Panti Waluya Malang": {
+        "kota": "Malang",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas PGRI Mpu Sindok": {
+        "kota": "Nganjuk",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Widya Kartika": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Universitas Yos Sudarso": {
+        "kota": "Surabaya",
+        "provinsi": "Jawa Timur"
+    },
+    "Akademi Kebidanan Surya Mandiri Kota Bima": {
+        "kota": "Bima",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Politeknik Nasional": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Teknik Lingkungan Mataram": {
+        "kota": "Mataram",
+        "provinsi": "Nusa Tenggara Barat"
+    },
+    "Institut Ilmu Kesehatan Pelamonia Kesdam XIV/ Hasanuddin": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Politeknik Bina Husada Kendari": {
+        "kota": "Kendari",
+        "provinsi": "Sulawesi Tenggara"
+    },
+    "Politeknik Lembaga Pendidikan Dan Pengembangan Profesi Indonesia Makassar": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Politeknik Sandi Karsa": {
+        "kota": "Makassar",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Bina Bangsa Majene": {
+        "kota": "Majene",
+        "provinsi": "Sulawesi Barat"
+    },
+    "Universitas Tomakaka": {
+        "kota": "Mamuju",
+        "provinsi": "Sulawesi Barat"
+    },
+    "Akademi Farmasi Dwi Farma": {
+        "kota": "Bukittinggi",
+        "provinsi": "Sumatera Barat"
+    },
+    "Institut Teknologi dan Ilmu Sosial Khatulistiwa": {
+        "kota": "Pontianak",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Politeknik 'Aisyiyah Sumatera Barat": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Mercubaktijaya": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Universitas Nurdin Hamzah": {
+        "kota": "Jambi",
+        "provinsi": "Jambi"
+    },
+    "Universitas Syedza Saintika": {
+        "kota": "Padang",
+        "provinsi": "Sumatera Barat"
+    },
+    "Institut Teknologi Kesehatan dan Sains Wiyata Husada Samarinda": {
+        "kota": "Samarinda",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Indonesia Pontianak": {
+        "kota": "Pontianak",
+        "provinsi": "Kalimantan Barat"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Pancasetia": {
+        "kota": "Banjarmasin",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "Sekolah Tinggi Ilmu Kesehatan Intan Martapura": {
+        "kota": "Martapura",
+        "provinsi": "Kalimantan Selatan"
+    },
+    "Sekolah Tinggi Teknologi Bontang": {
+        "kota": "Bontang",
+        "provinsi": "Kalimantan Timur"
+    },
+    "Institut Sains dan Kependidikan Kie Raha Maluku Utara": {
+        "kota": "Ternate",
+        "provinsi": "Maluku Utara"
+    },
+    "Akademi Keperawatan Kesdam Iskandar Muda Banda Aceh": {
+        "kota": "Kota Banda Aceh",
+        "provinsi": "Aceh"
+    },
+    "Universitas Al Washliyah Darussalam Banda Aceh": {
+        "kota": "Banda Aceh",
+        "provinsi": "Aceh"
+    },
+    "Universitas Gajah Putih": {
+        "kota": "Takengon",
+        "provinsi": "Aceh"
+    },
+    "STKIP Hermon Timika": {
+        "kota": "Timika",
+        "provinsi": "Papua"
+    },
+    "Universitas Kristen Papua": {
+        "kota": "Manokwari",
+        "provinsi": "Papua Barat"
+    },
+    "Sekolah Tinggi Manajemen Informatika Komputer Uyelindo Kupang": {
+        "kota": "Kupang",
+        "provinsi": "Nusa Tenggara Timur"
+    },
+    "Politeknik Bintan Cakrawala": {
+        "kota": "Kabupaten Bintan",
+        "provinsi": "Kepulauan Riau"
+    },
+    "Universitas Hang Tuah\n  Pekanbaru": {
+        "kota": "Kota Pekanbaru",
+        "provinsi": "Riau"
+    },
+    "Universitas Internasional Batam": {
+        "kota": "Kota Batam",
+        "provinsi": "Kepulauan Riau"
+    },
+    "Sekolah Tinggi Manajemen Ppm": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "St Ilmu Komputer Cipta Karya Informatika": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Universitas Al-azhar Indonesia": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Al- azhar Indonesia": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Universitas Islam As- syafiiyah": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "UNIVERSITAS NUSA MANDIRI": {
+        "kota": "Jakarta",
+        "provinsi": "DKI Jakarta"
+    },
+    "Sekolah Tinggi Ilmu Ekonomi Wira Bhakti": {
+        "kota": "Denpasar",
+        "provinsi": "Bali"
+    },
+    "Universitas Muhammadiyah Pare-pare": {
+        "kota": "Parepare",
+        "provinsi": "Sulawesi Selatan"
+    },
+    "Sekolah Tinggi Ilmu Administrasi Nasional": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    },
+    "Sekolah Tinggi Ilmu Administrasi Pelita Nusantara": {
+        "kota": "unknown",
+        "provinsi": "unknown"
+    }
+}

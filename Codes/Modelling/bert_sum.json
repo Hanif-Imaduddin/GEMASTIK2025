@@ -1,0 +1,182 @@
+{
+    "0": {
+        "label_topik": "Riset dan Inovasi AI dalam Pencitraan Medis untuk COVID-19",
+        "deskripsi": "Topik ini mencakup penggunaan kecerdasan buatan, khususnya pembelajaran mendalam dan pembelajaran mesin, dalam pencitraan medis seperti MRI, CT, dan X-ray untuk mendeteksi, mendiagnosis, dan mengelola penyakit seperti COVID-19, serta perannya dalam meningkatkan efisiensi dan akurasi diagnosis medis melalui sistem diagnosis berbantuan komputer dan teknik segmentasi citra."
+    },
+    "1": {
+        "label_topik": "Explainable AI (XAI) in Machine Learning",
+        "deskripsi": "Topik ini membahas tentang metode dan pendekatan dalam Explainable AI (XAI) yang bertujuan untuk meningkatkan interpretabilitas dan penjelasan dari model pembelajaran mesin, dengan fokus pada evaluasi metode XAI, pemetaan kebutuhan pengguna dengan metode yang tepat, dan analisis kesesuaian penjelasan yang dihasilkan dengan ekspektasi manusia dalam berbagai domain aplikasi."
+    },
+    "2": {
+        "label_topik": "Governance and Ethics in AI Systems",
+        "deskripsi": "Topik ini membahas pentingnya tata kelola, etika, dan akuntabilitas dalam pengembangan dan implementasi sistem kecerdasan buatan, dengan fokus pada prinsip-prinsip terpercaya, tanggung jawab aktor, dan regulasi yang diperlukan untuk memastikan bahwa sistem AI digunakan secara etis dan bertanggung jawab dalam masyarakat."
+    },
+    "3": {
+        "label_topik": "Keamanan dan Ketahanan Model Pembelajaran Mesin terhadap Serangan Adversarial",
+        "deskripsi": "Topik ini mencakup penelitian tentang serangan adversarial terhadap model pembelajaran mendalam dan pembelajaran mesin dalam konteks keamanan siber, termasuk transferabilitas serangan, deteksi intrusi, deteksi anomali, dan ketahanan terhadap malware. Penelitian berfokus pada pengembangan strategi untuk meningkatkan ketahanan model terhadap manipulasi adversarial dan mengeksplorasi teknik pertahanan untuk melindungi aplikasi berbasis AI dari ancaman keamanan."
+    },
+    "4": {
+        "label_topik": "Integrasi dan Dampak Kecerdasan Buatan Generatif dalam Pendidikan",
+        "deskripsi": "Topik ini membahas integrasi kecerdasan buatan generatif (GenAI) dalam sistem pendidikan, dengan fokus pada bagaimana teknologi ini merevolusi lingkungan belajar melalui kolaborasi manusia-mesin yang ditingkatkan, personalisasi, dan adaptasi pembelajaran. Ini juga mencakup peran dan tantangan bagi siswa, pendidik, dan peneliti, serta pentingnya kebijakan etika, literasi GenAI, dan pengembangan kurikulum untuk memastikan penggunaan yang bertanggung jawab dan inklusif, sambil menjaga integritas akademik dan keterampilan berpikir kritis siswa."
+    },
+    "5": {
+        "label_topik": "Riset dan Inovasi dalam Kecerdasan Buatan untuk Pemrosesan Bahasa dan Penalaran Matematis",
+        "deskripsi": "Topik ini mencakup perkembangan dan tantangan dalam penggunaan model bahasa besar (LLMs) untuk pemrosesan bahasa alami dan penalaran matematis, termasuk peningkatan kemampuan model untuk menyelesaikan masalah matematis, evaluasi kinerja model dalam penalaran matematis, serta teknik optimasi dan pembuktian teorema yang didukung oleh kecerdasan buatan."
+    },
+    "6": {
+        "label_topik": "Riset dan Inovasi dalam Jaringan Nirkabel 6G",
+        "deskripsi": "Topik ini mengeksplorasi perkembangan, tantangan, dan peluang penelitian masa depan dalam jaringan komunikasi 6G, termasuk integrasi teknologi canggih seperti digital twins, komunikasi semantik, dan permukaan reflektif cerdas untuk meningkatkan manajemen sumber daya, efisiensi jaringan, dan pengalaman pengguna dalam lingkungan yang dinamis dan kompleks. Selain itu, topik ini membahas kebutuhan jaringan 6G untuk mendukung aplikasi berbasis Internet of Everything dan mengatasi keterbatasan jaringan 5G saat ini melalui inovasi dalam komunikasi terahertz, sistem komputasi awan, dan algoritma pembelajaran mesin."
+    },
+    "7": {
+        "label_topik": "Innovative Deep Learning Approaches in Drug Discovery",
+        "deskripsi": "This topic explores the application of deep learning and machine learning techniques, including neural networks and large language models, in drug discovery and bioinformatics. It focuses on predicting molecular interactions, leveraging 3D molecular structures, and improving computational ligand-target binding analysis to enhance drug design and molecular property prediction. The research highlights the development of models like TokenMol and datasets that improve the accuracy and efficiency of drug discovery tasks."
+    },
+    "8": {
+        "label_topik": "Riset dan Inovasi dalam Kecerdasan Buatan dengan Fokus pada Jaringan Saraf Tiruan dan Pembelajaran Mendalam",
+        "deskripsi": "Topik ini mencakup penelitian dan inovasi dalam kecerdasan buatan, khususnya terkait pengembangan dan penerapan jaringan saraf tiruan dan pembelajaran mendalam. Ini mencakup teori dasar, metode pembelajaran, dan struktur arsitektur seperti multilayer perceptron, jaringan saraf konvolusional, dan recurrent neural networks. Selain itu, topik ini juga membahas teknik optimasi, inisialisasi jaringan, dan penerapan persamaan diferensial parsial untuk memecahkan masalah kompleks dalam sistem fisik dan komputasi."
+    },
+    "9": {
+        "label_topik": "Algorithmic Fairness and Bias Mitigation in AI Systems",
+        "deskripsi": "Topik ini membahas tentang keadilan algoritmik dan mitigasi bias dalam sistem kecerdasan buatan, termasuk analisis norma yang tidak adil, mitigasi bias gender, dan kerangka kerja sertifikasi keadilan untuk memastikan keputusan sistem yang adil. Studi menunjukkan pentingnya mengatasi bias yang ada dalam model pembelajaran mesin dan mengembangkan pendekatan yang lebih inklusif dan representatif terhadap identitas manusia dan nilai-nilai global."
+    },
+    "10": {
+        "label_topik": "Riset dan Inovasi dalam Kecerdasan Buatan Berbasis Jaringan Saraf",
+        "deskripsi": "Topik ini mencakup penelitian tentang jaringan saraf buatan dan hubungannya dengan otak manusia, termasuk penggunaan jaringan saraf dalam model komputasi yang meniru sistem saraf biologis, serta pengembangan teknologi pembelajaran mendalam dan jaringan saraf spiking yang efisien. Studi-studi ini mengeksplorasi mekanisme otak manusia, pengkodean dan dekode aktivitas otak, serta tantangan pembelajaran berkelanjutan dan adaptif dalam konteks kecerdasan buatan yang lebih umum. Topik ini juga membahas implikasi etis dari teknologi yang kuat ini dan tren masa depan dalam bidang yang berkembang pesat ini."
+    },
+    "11": {
+        "label_topik": "Inovasi dan Keselamatan dalam Sistem Transportasi Otonom",
+        "deskripsi": "Topik ini mencakup penelitian dan inovasi dalam teknologi kecerdasan buatan yang diterapkan pada kendaraan otonom, dengan fokus pada peningkatan keselamatan jalan melalui sistem transportasi cerdas, integrasi algoritma dan model bahasa besar untuk pengambilan keputusan, serta pengembangan metrik keselamatan jaringan untuk penilaian keselamatan lalu lintas secara menyeluruh."
+    },
+    "12": {
+        "label_topik": "Inovasi dan Strategi Kecerdasan Buatan dalam Permainan",
+        "deskripsi": "Topik ini mengeksplorasi penerapan reinforcement learning dan teori permainan dalam pengembangan kecerdasan buatan untuk permainan multiagen, termasuk permainan papan seperti catur dan permainan video, dengan fokus pada strategi, penyesuaian kesulitan dinamis, dan pencapaian kesetimbangan Nash untuk meningkatkan performa agen dan pengalaman bermain manusia."
+    },
+    "13": {
+        "label_topik": "Riset dan Inovasi dalam Kecerdasan Buatan untuk Sistem Robotik",
+        "deskripsi": "Topik ini mencakup penelitian dan inovasi dalam kecerdasan buatan yang berfokus pada integrasi dan penerapan model bahasa besar, pembelajaran penguatan, serta pembelajaran mendalam untuk meningkatkan kemampuan sistem robotik otonom dalam berinteraksi dengan lingkungan dan berkolaborasi dengan agen multi-entitas. Termasuk di dalamnya adalah pengembangan robot yang dapat berkomunikasi menggunakan bahasa, serta penggunaan simulasi fotorealistik untuk pelatihan agen cerdas dalam lingkungan yang tidak diketahui."
+    },
+    "14": {
+        "label_topik": "Kreativitas dan Inovasi Kecerdasan Buatan dalam Generasi Konten",
+        "deskripsi": "Topik ini mengeksplorasi bagaimana kecerdasan buatan, khususnya model bahasa besar (LLM) dan AI generatif, berinteraksi dengan kreativitas manusia dalam menghasilkan konten kreatif. Fokusnya adalah pada penilaian kreativitas AI, dampak AI generatif terhadap kreativitas manusia, dan perbandingan antara kreativitas mesin dan manusia. Studi menunjukkan bahwa meskipun AI dapat meningkatkan kreativitas manusia dan menunjukkan keunggulan dalam tugas-tugas kreatif tertentu, ada batasan dalam orisinalitas dan keragaman konten yang dihasilkan. Kolaborasi antara manusia dan AI serta integrasi umpan balik manusia dianggap penting untuk memaksimalkan potensi kreatif AI."
+    },
+    "15": {
+        "label_topik": "Inovasi dan Riset dalam Model Multimodal Kecerdasan Buatan",
+        "deskripsi": "Topik ini membahas kemajuan dalam model bahasa besar multimodal (MMLMs) dan penerapannya dalam tugas-tugas kompleks seperti penjawaban pertanyaan visual, pemahaman visual, dan penalaran multimodal. Dengan mengintegrasikan informasi tekstual dan visual, model-model ini menunjukkan kemampuan luar biasa dalam berbagai aplikasi, termasuk pengenalan gambar dan dialog multimodal. Penelitian ini juga mengeksplorasi tren terbaru dan tantangan dalam pengembangan model-model ini, serta memperkenalkan pendekatan baru seperti model Veagle dan Kosmos-1 yang meningkatkan kemampuan multimodal dengan mekanisme dinamis dan transfer pengetahuan antar-modalitas."
+    },
+    "16": {
+        "label_topik": "Inovasi Hardware dan Arsitektur untuk Efisiensi Kecerdasan Buatan",
+        "deskripsi": "Topik ini membahas tentang pengembangan dan inovasi dalam desain hardware dan arsitektur untuk meningkatkan efisiensi dan kinerja dalam menjalankan jaringan saraf dalam (DNN) dan pembelajaran mendalam (deep learning). Fokus utamanya adalah pada penggunaan akselerator hardware seperti GPU dan arsitektur inovatif seperti systolic-vector serta solusi untuk mengatasi kendala memori pada perangkat edge. Solusi ini mencakup desain minimalis, penggunaan algoritma kuantisasi, dan strategi penjadwalan heterogen untuk meningkatkan throughput, efisiensi energi, dan menurunkan konsumsi daya dalam aplikasi kecerdasan buatan."
+    },
+    "17": {
+        "label_topik": "Inovasi dalam Rekayasa Perangkat Lunak dengan Kecerdasan Buatan",
+        "deskripsi": "Topik ini mengeksplorasi integrasi kecerdasan buatan dalam rekayasa perangkat lunak, termasuk pengembangan model yang didorong AI untuk meningkatkan kualitas perangkat lunak, otomatisasi proses pemrograman, dan tantangan serta peluang dalam penggunaan model bahasa besar untuk mendukung berbagai aktivitas pengembangan perangkat lunak seperti desain, pengkodean, dan pemeliharaan."
+    },
+    "18": {
+        "label_topik": "Riset dan Inovasi dalam Neuromorphic Computing dan Spiking Neural Networks",
+        "deskripsi": "Topik ini mencakup penelitian dan inovasi dalam bidang neuromorphic computing dan spiking neural networks (SNNs), yang berfokus pada penggunaan pola spike spatiotemporal untuk representasi dan transmisi informasi secara efisien dalam sistem biologis dan neuromorfik. Studi ini mengeksplorasi metode pelatihan jaringan neural spiking yang dalam (Deep SNNs) menggunakan algoritma backpropagation berbasis waktu spike, serta menyoroti potensi SNNs untuk komputasi hemat energi dan penerapan dalam arsitektur jaringan besar seperti transformer spiking. Selain itu, analisis bibliometrik memberikan wawasan tentang tren publikasi, kolaborasi, dan perkembangan teknologi dalam neuromorphic computing selama dua dekade terakhir, menyoroti transisi dari prototipe laboratorium ke chipset komersial untuk komputasi daya rendah."
+    },
+    "19": {
+        "label_topik": "Evolusi dan Tantangan Artificial General Intelligence (AGI)",
+        "deskripsi": "Topik ini mengeksplorasi evolusi, tantangan, dan potensi dari Artificial General Intelligence (AGI), mengkaji bagaimana AGI dapat muncul dan berinteraksi dengan kecerdasan manusia, serta peran kesadaran dan embedment dalam mencapai kecerdasan setingkat manusia. Dokumen-dokumen dalam topik ini membahas teori-teori tentang jalur perkembangan AGI, dampak dari struktur sosial dan teknologi terhadap AGI, serta pendekatan untuk menguji dan mengembangkan sistem kecerdasan yang lebih maju dan terintegrasi dengan pemahaman manusia."
+    },
+    "20": {
+        "label_topik": "Federated Learning and Data Privacy in Distributed AI Systems",
+        "deskripsi": "Topik ini membahas tentang penerapan federated learning (FL) dalam konteks kecerdasan buatan yang terdistribusi, dengan fokus pada pelatihan model desentralisasi yang melindungi privasi data. Dengan meningkatnya kebutuhan akan keamanan dan privasi dalam pengolahan data, FL muncul sebagai solusi untuk memungkinkan pelatihan model pada perangkat lokal tanpa mentransfer data mentah ke server pihak ketiga. Framework seperti Flex dan Sherpa.ai membantu peneliti mengembangkan teknik FL yang inovatif dengan fitur yang dapat disesuaikan, termasuk privasi diferensial dan algoritma penguatan terdistribusi. Topik ini juga mencakup tantangan efisiensi komunikasi dalam jaringan FL yang melibatkan perangkat heterogen dan terdistribusi, serta pengembangan algoritma caching terdesentralisasi untuk meningkatkan pengalaman pengguna dan efisiensi sistem dalam lingkungan komputasi tepi."
+    },
+    "21": {
+        "label_topik": "Riset dan Inovasi dalam Quantum Computing dan Kecerdasan Buatan",
+        "deskripsi": "Topik ini mencakup eksplorasi dan pengembangan di bidang quantum computing dan kecerdasan buatan, termasuk quantum machine learning, quantum AIXI, dan quantum biomimetics, yang bertujuan untuk mengatasi tantangan komputasi klasik dengan menggunakan algoritma quantum dan neural networks untuk meningkatkan efisiensi dan kapabilitas pemrosesan data dalam skala besar, serta mengembangkan agen cerdas yang dapat berinteraksi dengan lingkungan kuantum."
+    },
+    "22": {
+        "label_topik": "Multimodal Emotion Recognition in Human-Computer Interaction",
+        "deskripsi": "Topik ini mencakup penelitian dan inovasi dalam pengenalan emosi menggunakan pendekatan multimodal, termasuk pengenalan emosi dalam percakapan, analisis teks alami, dan interaksi manusia-komputer. Fokusnya adalah pada pengembangan sistem percakapan yang dapat mengenali dan menafsirkan emosi manusia melalui berbagai sinyal, seperti suara dan teks, untuk meningkatkan interaksi emosional antara manusia dan mesin. Studi dalam topik ini juga menyoroti pentingnya memahami korelasi emosi dan dinamika emosi dalam percakapan untuk mencapai kecerdasan buatan yang lebih canggih dan responsif."
+    },
+    "23": {
+        "label_topik": "Inovasi Kecerdasan Buatan dalam Pertanian",
+        "deskripsi": "Topik ini mencakup penerapan kecerdasan buatan, pembelajaran mesin, dan penginderaan jauh dalam pertanian untuk meningkatkan efisiensi dan keberlanjutan praktik pertanian, termasuk deteksi penyakit tanaman, prediksi hasil panen, dan manajemen air, dengan fokus pada pengembangan model deteksi objek seperti YOLO dan integrasi teknologi IoT."
+    },
+    "24": {
+        "label_topik": "Sustainability in AI and Data Centers",
+        "deskripsi": "Topik ini membahas upaya peningkatan efisiensi energi dan pengurangan jejak karbon dalam kecerdasan buatan dan pusat data, dengan fokus pada pengelolaan energi, peningkatan efisiensi, dan dampak lingkungan untuk mencapai keberlanjutan."
+    },
+    "25": {
+        "label_topik": "Deteksi dan Dampak Berita Palsu pada Media Sosial",
+        "deskripsi": "Topik ini membahas tentang tantangan dan solusi dalam mendeteksi berita palsu di platform media sosial, termasuk peran kecerdasan buatan dalam mendeteksi dan menjelaskan berita palsu, perbedaan persepsi dan perilaku berbagi berita palsu yang dihasilkan manusia versus AI, serta integrasi pembelajaran mesin dan rekayasa pengetahuan untuk meningkatkan akurasi deteksi berita palsu."
+    },
+    "26": {
+        "label_topik": "Enhancing Data Quality in Big Data and Data-Driven Systems",
+        "deskripsi": "Topik ini membahas pentingnya kualitas data dalam sistem data besar dan berbasis data, dengan fokus pada peningkatan kualitas data melalui kerangka kerja cerdas dan otomatis yang mengintegrasikan deteksi dan koreksi anomali serta peningkatan kualitas metadata dalam ekosistem data besar, serta mencakup evolusi kesadaran kualitas data dari sistem manajemen data tradisional ke sistem berbasis ilmu data modern yang didorong oleh pembelajaran mesin."
+    },
+    "27": {
+        "label_topik": "Riset dan Inovasi dalam Generasi Konten Visual AIGC",
+        "deskripsi": "Topik ini membahas kemajuan dalam model generatif untuk menghasilkan konten visual seperti video dan gambar, dengan fokus pada kualitas visual, konsistensi, dan evaluasi kualitas konten yang dihasilkan oleh kecerdasan buatan (AIGC), termasuk tantangan dan metode penilaian dalam memastikan keselarasan dan kualitas konten yang dihasilkan."
+    },
+    "28": {
+        "label_topik": "AI-driven Weather Forecasting and Modeling",
+        "deskripsi": "Topik ini membahas tentang inovasi dan riset dalam sistem peramalan cuaca berbasis kecerdasan buatan yang menggabungkan model pembelajaran mendalam dengan data historis untuk menghasilkan prakiraan cuaca yang lebih akurat dan efisien. Penelitian ini mencakup penggunaan model generatif untuk emulasi ensemble prakiraan, integrasi sistem asimilasi data berbasis AI untuk analisis global, serta pengembangan sistem peramalan cuaca siklik yang menggabungkan model pembelajaran data dengan algoritma asimilasi variabel empat dimensi (4DVAR) untuk meningkatkan akurasi prakiraan cuaca dan mengurangi biaya komputasi."
+    },
+    "29": {
+        "label_topik": "Innovative Semantic Communication Frameworks in Next-Generation Wireless Networks",
+        "deskripsi": "Topik ini membahas pengembangan dan penerapan paradigma komunikasi semantik dalam jaringan nirkabel generasi mendatang, termasuk identifikasi fitur semantik, representasi semantik, dan alokasi sumber daya berbasis pembelajaran untuk meningkatkan efisiensi transmisi dan keamanan semantik. Penelitian ini mencakup strategi komunikasi semantik post-Shannon, jaringan komunikasi semantik berbasis penalaran kausal, dan penggunaan permukaan reflektif cerdas untuk meningkatkan keamanan fisik lapisan dalam komunikasi semantik yang berorientasi tugas."
+    },
+    "30": {
+        "label_topik": "Analisis Bibliometrik dan Dampak Riset AI",
+        "deskripsi": "Topik ini membahas analisis bibliometrik untuk mengukur dampak riset dan inovasi kecerdasan buatan (AI) dalam literatur ilmiah, dengan fokus pada publikasi, kutipan, dan kolaborasi lintas disiplin. Studi ini mengeksplorasi bagaimana penelitian AI diterjemahkan ke inovasi praktis melalui paten dan repositori kode, serta dampaknya terhadap berbagai bidang ilmiah dan ketidaksetaraan demografis dalam sains. Analisis mencakup identifikasi publikasi yang sangat dikutip dan kontribusi institusi serta penulis terkemuka dalam pengembangan riset AI."
+    },
+    "31": {
+        "label_topik": "Inovasi Optoelektronik dalam Kecerdasan Buatan",
+        "deskripsi": "Topik ini membahas inovasi dalam kecerdasan buatan yang memanfaatkan jaringan neural optoelektronik, termasuk penggunaan jaringan neural fotonik, akselerator perangkat keras, dan komputasi reservoir untuk meningkatkan efisiensi energi, latensi rendah, dan throughput tinggi dalam aplikasi pembelajaran mendalam dan generatif."
+    },
+    "32": {
+        "label_topik": "Inovasi Kecerdasan Buatan untuk Prediksi dan Perdagangan di Pasar Saham",
+        "deskripsi": "Topik ini mencakup penelitian dan inovasi dalam penggunaan kecerdasan buatan, khususnya deep learning dan reinforcement learning, untuk analisis deret waktu dan prediksi pergerakan harga di pasar saham. Fokus utama adalah pada model seperti LSTM, deep reinforcement learning, dan algoritma trading yang menggunakan data historis dan analisis sentimen untuk meningkatkan akurasi prediksi dan strategi perdagangan."
+    },
+    "33": {
+        "label_topik": "Integrasi Blockchain dan IoT untuk Keamanan dan Privasi",
+        "deskripsi": "Topik ini membahas penerapan teknologi blockchain dalam meningkatkan kinerja dan keamanan sistem Internet of Things (IoT), dengan fokus pada kontrak pintar, perangkat IoT, dan perlindungan privasi. Teknologi blockchain menawarkan buku besar terdesentralisasi dan tidak dapat diubah yang ideal untuk manajemen identitas perangkat dan transaksi dalam jaringan IoT. Penelitian ini mengeksplorasi potensi blockchain dalam mengotomatisasi dan mengoptimalkan protokol keamanan, serta merespons ancaman siber yang berkembang, sehingga meningkatkan ketahanan jaringan terhadap serangan siber. Integrasi AI dalam sistem blockchain juga dievaluasi untuk meningkatkan perlindungan privasi di lingkungan IoT, dengan analisis mendalam dan studi kasus yang menunjukkan bagaimana teknologi ini dapat merevolusi keamanan dan privasi jaringan IoT."
+    },
+    "34": {
+        "label_topik": "Penerapan Kecerdasan Buatan dalam Pemrosesan Bahasa Alami untuk Sistem Hukum",
+        "deskripsi": "Topik ini mengeksplorasi penerapan model bahasa besar (LLMs) dalam sistem hukum, khususnya dalam tugas pemrosesan bahasa alami seperti pemahaman teks hukum, prediksi putusan hukum, dan penambangan argumen hukum. Literasi ini menyoroti tantangan seperti bias, interpretabilitas, dan pertimbangan etis dalam penggunaan LLMs di domain hukum, serta kemajuan terkini dalam pengembangan model bahasa hukum yang disesuaikan dengan sistem hukum dan dataset legal yang beragam. Selain itu, topik ini membahas potensi alat komputasi untuk meningkatkan proses hukum dan menyoroti tantangan penelitian terbuka terkait dengan kebutuhan akan model yang lebih kuat dan dapat dijelaskan."
+    },
+    "35": {
+        "label_topik": "Riset dan Inovasi Kecerdasan Buatan dalam Eksplorasi Mars dan Deteksi Anomali",
+        "deskripsi": "Topik ini mencakup penelitian dan inovasi dalam kecerdasan buatan yang berfokus pada teknik pembelajaran mesin untuk deteksi anomali dan klasifikasi data, khususnya dalam konteks eksplorasi Mars dan desain detektor untuk eksperimen fisika energi tinggi. Studi ini melibatkan penggunaan dataset mass spectrometry untuk analisis habitabilitas Mars dan penerapan teknik pembelajaran mesin untuk meningkatkan otonomi dalam eksplorasi planet serta desain detektor dengan optimasi multiobjektif untuk eksperimen fisika."
+    },
+    "36": {
+        "label_topik": "Riset dan Inovasi dalam Generasi Musik dengan Kecerdasan Buatan",
+        "deskripsi": "Topik ini mengeksplorasi kemajuan dalam penggunaan kecerdasan buatan untuk memahami dan menghasilkan musik, termasuk pemodelan musik dengan fondasi besar, generasi musik simbolik yang dapat dikontrol secara emosional, dan agen generasi musik dari berbagai perspektif. Penelitian ini mencakup analisis fitur musik yang kompleks, integrasi musik dengan bahasa, serta pengembangan kerangka kerja dan dataset baru untuk meningkatkan kualitas dan kontrol emosional dari musik yang dihasilkan oleh AI."
+    },
+    "37": {
+        "label_topik": "Riset dan Inovasi dalam Pengenalan dan Sintesis Suara",
+        "deskripsi": "Topik ini mencakup literatur ilmiah terkait pengembangan dan inovasi dalam teknologi pengenalan suara otomatis (ASR), sintesis suara, dan kemampuan pendengaran generik, dengan fokus pada aplikasi dalam bahasa yang kurang terlayani seperti Luganda dan Kanton, serta integrasi model multimodal untuk memahami input audio secara umum."
+    },
+    "38": {
+        "label_topik": "Privacy Preservation in Machine Learning and Large Language Models",
+        "deskripsi": "Topik ini membahas tentang tantangan dan solusi terkait pelestarian privasi dalam konteks kecerdasan buatan, khususnya machine learning dan model bahasa besar, dengan fokus pada isu-isu seperti perlindungan data, ancaman privasi, dan penerapan kebijakan seperti GDPR, serta pendekatan teknis seperti differential privacy dan machine unlearning untuk mengatasi risiko privasi dalam penggunaan data sensitif."
+    },
+    "39": {
+        "label_topik": "Inovasi dan Implementasi Chatbot Berbasis Pemrosesan Bahasa Alami",
+        "deskripsi": "Topik ini membahas tentang pengembangan dan penerapan chatbot yang memanfaatkan teknologi pemrosesan bahasa alami, dengan fokus pada peningkatan layanan pelanggan, manajemen krisis, dan tantangan adopsi dalam konteks layanan percakapan. Chatbot berfungsi sebagai agen percakapan yang mampu memberikan respons cepat dan akurat, serta meningkatkan efisiensi layanan dengan mengurangi waktu tunggu dan meningkatkan kepuasan pelanggan. Studi juga menyoroti pentingnya pemahaman bahasa alami dan adaptabilitas pembelajaran mesin untuk kinerja optimal chatbot, serta strategi untuk mengatasi hambatan adopsi seperti aversi terhadap algoritma dan proses penjaga gerbang."
+    },
+    "40": {
+        "label_topik": "Federated Learning for Privacy-Preserving Medical Imaging",
+        "deskripsi": "Topik ini membahas penerapan federated learning dalam konteks smart healthcare dengan fokus pada privasi data pasien, khususnya dalam pengolahan citra medis seperti CT scans COVID-19. Federated learning memungkinkan kolaborasi antar organisasi dalam pelatihan model machine learning tanpa berbagi data sensitif secara langsung, mengatasi kekhawatiran privasi. Teknologi seperti blockchain dan enkripsi homomorfik digunakan untuk meningkatkan privasi dan keamanan data, sementara tantangan seperti heterogenitas data dan kuantifikasi ketidakpastian model menjadi area penelitian yang penting."
+    },
+    "41": {
+        "label_topik": "Integrasi Edge Computing dan Deep Learning untuk Inovasi Kecerdasan Buatan",
+        "deskripsi": "Topik ini membahas konvergensi edge computing dan deep learning dalam konteks kecerdasan buatan, dengan penekanan pada optimalisasi pemrosesan data di edge networks dan perangkat edge. Ini mencakup tantangan dan solusi untuk mengatasi masalah efisiensi dan latensi dalam arsitektur cloud computing saat ini, serta integrasi teknologi seperti IoT dan cloud edge untuk membangun sistem edge yang cerdas dan adaptif. Penelitian ini juga menyoroti pentingnya edge intelligence dalam memfasilitasi deployment layanan deep learning di edge, serta masa depan dan arah penelitian yang dapat mengatasi batasan saat ini dengan solusi inovatif."
+    },
+    "42": {
+        "label_topik": "Inovasi Kecerdasan Buatan dalam Deteksi Dini dan Analisis Gambar Retinal untuk Penyakit Diabetes",
+        "deskripsi": "Topik ini mencakup penelitian dan inovasi dalam penggunaan kecerdasan buatan, khususnya deep learning, untuk analisis gambar retinal dengan fokus pada deteksi dini penyakit terkait diabetes seperti retinopati diabetik. Penelitian ini menyoroti otomatisasi pembuatan laporan medis, pengembangan sistem skrining retinopati diabetik yang dapat diskalakan, serta peningkatan teknik pencitraan retinal non-invasif untuk meningkatkan akurasi diagnosis dan efisiensi klinis, terutama di lingkungan dengan sumber daya terbatas."
+    },
+    "43": {
+        "label_topik": "Innovative Approaches in Deepfake Detection",
+        "deskripsi": "Topik ini membahas tentang metode-metode inovatif dalam mendeteksi deepfake, termasuk penggunaan jaringan saraf konvolusional (CNN) dan strategi pelatihan yang ditingkatkan untuk meningkatkan kemampuan generalisasi deteksi deepfake dalam berbagai skenario. Penelitian ini juga mengeksplorasi penggunaan blok perhatian seperti squeeze excitation (SE) untuk meningkatkan efisiensi model deteksi deepfake, serta pengembangan teknik yang memanfaatkan jejak konvolusional untuk membedakan gambar deepfake dari gambar asli. Fokus utama adalah pada pengembangan model deteksi yang efektif dan efisien yang dapat menangani tantangan deteksi deepfake di dunia nyata dengan sumber daya komputasi minimal."
+    },
+    "44": {
+        "label_topik": "Inovasi dan Akuisisi Pengetahuan Umum dalam Kecerdasan Buatan",
+        "deskripsi": "Topik ini membahas pendekatan dan metode dalam akuisisi pengetahuan umum dan penalaran dalam kecerdasan buatan, termasuk penggunaan knowledge graph, reasoning berbasis commonsense, dan pemrosesan bahasa alami untuk meningkatkan kemampuan model AI dalam memahami dan memproses informasi dengan lebih baik. Studi ini mencakup pengembangan teknik untuk mengumpulkan pengetahuan umum secara besar-besaran, integrasi pengetahuan ke dalam model vision-language, serta penggunaan pengetahuan diskursif untuk memperkaya basis pengetahuan yang ada."
+    }
+}

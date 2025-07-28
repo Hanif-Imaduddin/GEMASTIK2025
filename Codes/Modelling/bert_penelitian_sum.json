@@ -1,0 +1,234 @@
+{
+    "0": {
+        "label_topik": "Penerapan Machine Learning dan Neural Network dalam Sistem Cerdas",
+        "deskripsi": "Topik ini berfokus pada penggunaan machine learning dan neural network untuk mengembangkan sistem cerdas yang dapat melakukan klasifikasi dan optimisasi. Penelitian dalam topik ini mencakup pengembangan algoritma berbasis deep learning untuk pengklasifikasian objek, seperti bibit kelapa, serta penerapan teknologi IoT dan machine learning untuk deteksi dini penyakit. Selain itu, topik ini juga mencakup pemodelan sistem otentikasi berbasis suara, menunjukkan beragam aplikasi artificial intelligence dalam berbagai bidang."
+    },
+    "1": {
+        "label_topik": "Pengembangan Desa Wisata Berbasis Kearifan Lokal",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat terkait pengembangan desa wisata dengan pendekatan berbasis kearifan lokal. Fokus utama adalah optimalisasi potensi desa melalui usaha kecil dan menengah (UMKM), penerapan teknologi cerdas untuk manajemen pariwisata, dan perencanaan pariwisata berkelanjutan yang mengintegrasikan ekonomi kreatif. Studi kasus dalam topik ini melibatkan desa-desa wisata yang berupaya meningkatkan daya tarik wisatawan sambil mempertahankan nilai-nilai budaya lokal."
+    },
+    "2": {
+        "label_topik": "Pemanfaatan Bakteri Endofit dalam Pengembangan Senyawa Bioaktif untuk Pengendalian Penyakit dan Antioksidan",
+        "deskripsi": "Topik ini berfokus pada penelitian mengenai peran bakteri endofit dalam produksi senyawa bioaktif yang dapat digunakan untuk pengendalian infeksi dan penyakit pada tumbuhan. Penelitian ini mencakup analisis senyawa bioaktif, bioaktivitas, dan enzim yang ditemukan pada bakteri endofit dari berbagai tumbuhan, serta potensi penggunaannya sebagai antioksidan dan agen penginduksi ketahanan tanaman melalui proses fermentasi dan identifikasi molekuler."
+    },
+    "3": {
+        "label_topik": "Pengelolaan dan Konservasi Sumber Daya Perikanan di Wilayah Pesisir",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat terkait pengelolaan perikanan dan konservasi ekosistem di wilayah pesisir. Fokus utamanya adalah pada modernisasi perikanan tangkap tradisional, keberlanjutan sumber daya ikan, dan domestikasi spesies ikan endemik. Studi-studi ini juga mengeksplorasi biodiversitas, konservasi ekosistem perairan, dan pengembangan budidaya ikan hias, dengan perhatian khusus pada spesies seperti tuna dan rumput laut yang penting bagi ekosistem dan ekonomi lokal."
+    },
+    "4": {
+        "label_topik": "Pelestarian dan Studi Budaya Masyarakat Adat",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat yang berfokus pada studi budaya, hukum, dan bahasa dari masyarakat adat dan suku, seperti suku Moronene, Kasepuhan, dan Sasak. Penekanan diberikan pada pelestarian kearifan lokal, tradisi lisan, serta peran bahasa dalam mempertahankan warisan budaya dan kepercayaan agama."
+    },
+    "5": {
+        "label_topik": "Transformasi Digital dalam Pemasaran UMKM",
+        "deskripsi": "Topik ini berfokus pada penerapan strategi pemasaran digital untuk meningkatkan visibilitas dan keberlanjutan usaha mikro, kecil, dan menengah (UMKM). Dengan memanfaatkan teknologi digital dan media sosial, UMKM dapat mempercepat transformasi pemasaran mereka, meningkatkan interaksi dengan konsumen, dan mengoptimalkan promosi berbasis digital. Penelitian dalam topik ini juga mengeksplorasi penggunaan neuromarketing dan persona digital untuk lebih memahami perilaku konsumen dan meningkatkan efektivitas strategi pemasaran."
+    },
+    "6": {
+        "label_topik": "Ketahanan Pangan dan Mitigasi Perubahan Iklim",
+        "deskripsi": "Topik ini berfokus pada upaya untuk meningkatkan ketahanan pangan melalui strategi berkelanjutan yang mempertimbangkan mitigasi dan adaptasi terhadap perubahan iklim. Ini melibatkan transformasi sistem pangan lokal, analisis ketersediaan dan keterjangkauan pangan, serta resiliensi rumah tangga petani dalam menghadapi variabilitas iklim. Inisiatif ini mengedepankan pendekatan berbasis komunitas dan sosial untuk mewujudkan ketahanan pangan yang berkelanjutan dan tangguh terhadap perubahan iklim."
+    },
+    "7": {
+        "label_topik": "Pengembangan dan Optimalisasi Pembangkit Listrik Berbasis Energi Terbarukan",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat yang berfokus pada pengembangan, optimalisasi, dan integrasi pembangkit listrik berbasis energi terbarukan seperti tenaga angin, tenaga surya, dan cofiring lignoselulosa. Ini termasuk pemanfaatan teknologi canggih seperti IoT untuk manajemen energi dan pengembangan infrastruktur pendukung seperti stasiun pengisian kendaraan listrik."
+    },
+    "8": {
+        "label_topik": "Pengembangan Media Pembelajaran Berbasis Augmented Reality",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat yang berfokus pada pengembangan media pembelajaran inovatif menggunakan teknologi augmented reality dan virtual reality. Tujuannya adalah untuk meningkatkan keterampilan, literasi digital, dan pemahaman siswa dan mahasiswa dalam berbagai bidang, termasuk pembelajaran vokasional dan materi geometri dengan pendekatan etnomatematika."
+    },
+    "9": {
+        "label_topik": "Inovasi Pembelajaran Matematika Berbasis Budaya dan Teknologi",
+        "deskripsi": "Topik ini mencakup pengembangan dan desain model pembelajaran matematika yang berdiferensiasi dengan pendekatan berbasis masalah, budaya, dan teknologi. Fokus utama adalah pada peningkatan kemampuan pemecahan masalah, numerasi, dan berpikir kritis siswa melalui integrasi kurikulum merdeka dan metode pembelajaran inovatif seperti etnosteam dan TPACK dalam konteks pembelajaran kelas."
+    },
+    "10": {
+        "label_topik": "Inovasi Pembelajaran Bahasa Inggris Berbasis Teknologi dan Kebutuhan Khusus",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat yang berfokus pada pengembangan metode pembelajaran bahasa Inggris yang inovatif, termasuk pendekatan 3Gogies (Heutagogy, Peeragogy, Cybergogy), penggunaan media interaktif berbasis web untuk siswa dengan kebutuhan khusus seperti tuna rungu, serta analisis dampak pembelajaran terhadap keterampilan menulis dan literasi mahasiswa dalam bahasa Inggris."
+    },
+    "11": {
+        "label_topik": "Pengembangan dan Evaluasi Senyawa Antikanker untuk Kanker Payudara",
+        "deskripsi": "Topik ini mencakup penelitian dan pengembangan senyawa antikanker yang berfokus pada kanker payudara, dengan meneliti bahan baku obat yang berpotensi sebagai inhibitor dan kandidat obat. Penelitian ini melibatkan evaluasi efek sinergis dan kemopreventif dari berbagai senyawa, serta pengembangan senyawa turunan yang dapat meningkatkan aktivitas antikanker, terutama pada sel kanker payudara seperti T47D, dengan kombinasi agen kemoterapi."
+    },
+    "12": {
+        "label_topik": "Strategi Mitigasi dan Komunikasi Risiko Bencana di Wilayah Rawan Bencana",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat yang berfokus pada upaya mitigasi bencana di wilayah rawan bencana seperti banjir, kebakaran, dan tsunami. Ini melibatkan studi tentang komunikasi risiko bencana untuk mendukung ketahanan komunitas, efektivitas mitigasi pasca bencana, serta adaptasi dan peringatan dini melalui kearifan lokal. Penelitian berfokus pada aspek kerentanan, risiko, dan bahaya dalam konteks penanganan darurat dan pengurangan risiko bencana."
+    },
+    "13": {
+        "label_topik": "Implementasi dan Pengembangan Ekonomi Hijau di Sektor Keuangan dan Industri",
+        "deskripsi": "Topik ini mencakup berbagai penelitian dan inisiatif pengabdian masyarakat yang berfokus pada penerapan konsep ekonomi hijau dan keberlanjutan dalam sektor keuangan dan industri. Ini melibatkan praktik green banking dan green financing untuk meningkatkan kinerja lingkungan perbankan di Indonesia, serta peran green intellectual capital dalam memoderasi inovasi hijau dan akuntansi hijau untuk meningkatkan performa perusahaan dan lingkungan. Selain itu, topik ini juga mengeksplorasi perilaku sukarela hijau dan kinerja hijau sebagai pendukung industri perhotelan yang berkelanjutan."
+    },
+    "14": {
+        "label_topik": "Penelitian Aktivitas Antioksidan Ekstrak Tanaman Obat",
+        "deskripsi": "Topik ini berfokus pada penelitian aktivitas antioksidan dari ekstrak etanol tanaman obat yang mengandung senyawa bioaktif. Penelitian ini melibatkan analisis senyawa bioaktif seperti fenolik dan flavonoid dalam berbagai tanaman seperti daun waru, daun ciplukan, dan batang teratai putih. Metode yang digunakan termasuk DPPH untuk mengukur aktivitas antioksidan. Penelitian ini bertujuan untuk mengeksplorasi potensi tanaman obat sebagai sumber antioksidan alami dalam produk perawatan kulit dan kesehatan."
+    },
+    "15": {
+        "label_topik": "Pengembangan dan Aplikasi Sensor Ion Berbasis Nanomaterial",
+        "deskripsi": "Topik ini mencakup penelitian dan pengembangan sensor ion menggunakan berbagai nanomaterial seperti nanopartikel, nanofiber, dan polimer. Fokus utama adalah pada aplikasi sensor untuk mendeteksi ion logam dan peningkatan kinerja sensor melalui modifikasi material seperti elektroda selektif ion dan material katode baterai ion litium. Penggunaan teknologi nano dan modifikasi permukaan material untuk meningkatkan sensitivitas dan selektivitas sensor juga menjadi bagian penting dari topik ini."
+    },
+    "16": {
+        "label_topik": "Pengembangan dan Implementasi Model Pembelajaran Berbasis Proyek dan Masalah untuk Meningkatkan Keterampilan Berpikir Kritis",
+        "deskripsi": "Topik ini berfokus pada pengembangan dan penerapan model pembelajaran berbasis proyek (project-based learning) dan berbasis masalah (problem-based learning) untuk meningkatkan keterampilan berpikir kritis siswa. Penelitian dalam topik ini mengeksplorasi berbagai pendekatan seperti inquiry learning dan socio scientific issues untuk mengintegrasikan keterampilan berpikir kritis dan proses sains dalam pendidikan menengah."
+    },
+    "17": {
+        "label_topik": "Inovasi Pangan Fungsional Berbasis Ayam dan Ikan Patin",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat yang berfokus pada pengembangan pangan fungsional dengan memanfaatkan ayam dan ikan patin sebagai sumber protein. Inovasi ini melibatkan penggunaan bioteknologi dan suplementasi untuk meningkatkan nilai gizi produk seperti daging ayam dan telur, serta mengintegrasikan bahan-bahan seperti tepung daun kelor dan miana untuk memperkaya kandungan mikronutrien dan omega-3. Tujuannya adalah untuk menghasilkan produk pangan yang tidak hanya bergizi tinggi tetapi juga berperan dalam pencegahan masalah kesehatan seperti stunting."
+    },
+    "18": {
+        "label_topik": "Pengembangan Bahan Alami untuk Pengelolaan Diabetes",
+        "deskripsi": "Topik ini berfokus pada penelitian dan pengembangan bahan alami seperti ekstrak tanaman untuk mengelola diabetes, dengan menekankan pada pengaruhnya terhadap kadar glukosa darah dan kesehatan organ seperti hati, ginjal, dan pankreas. Penelitian ini menggunakan model hewan untuk mengevaluasi efek antidiabetes dari ekstrak tanaman dan senyawa metabolit lainnya."
+    },
+    "19": {
+        "label_topik": "Pengembangan Formulasi Nano untuk Peningkatan Efikasi Terapi Herbal",
+        "deskripsi": "Topik ini berfokus pada inovasi dan pengembangan sediaan berbasis nanoteknologi, seperti nanopartikel dan nanofiber, yang mengandung ekstrak daun dari berbagai tanaman untuk meningkatkan aktivitas antioksidan dan efikasi terapi, termasuk pengobatan luka diabetik dan terapi antikanker. Penelitian ini mencakup formulasi sistem pengantaran obat nanoemulsi dan self-nano emulsifying drug delivery system (SNEDDS) untuk meningkatkan efikasi pengobatan herbal."
+    },
+    "20": {
+        "label_topik": "Pendekatan Terintegrasi untuk Pencegahan Stunting dan Kesehatan Ibu-Bayi",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat yang berfokus pada upaya pencegahan stunting dan peningkatan kesehatan mental serta fisik ibu dan bayi. Ini melibatkan pengembangan aplikasi, terapi, dan intervensi yang bertujuan untuk meningkatkan keterampilan ibu dalam merawat bayi, pengolahan MPASI, dan mengatasi tantangan kesehatan mental seperti postpartum blues. Efektivitas dari berbagai pendekatan ini dievaluasi untuk meningkatkan kesejahteraan ibu dan anak."
+    },
+    "21": {
+        "label_topik": "Pemanfaatan Limbah Biomassa untuk Produksi Bahan Bakar Alternatif dan Biokomposit",
+        "deskripsi": "Topik ini berfokus pada pengembangan dan sintesis katalis untuk memanfaatkan limbah biomassa dan limbah organik sebagai sumber bahan bakar alternatif dan biokomposit. Penelitian mencakup penggunaan berbagai teknik seperti pirolisis dan oligomerisasi untuk mengkonversi limbah minyak dan plastik menjadi bahan bakar yang lebih ramah lingkungan. Inovasi dalam katalis, seperti zeolit dan mesopori, serta penggunaan bahan seperti niobium phosphat dan dolomit terimpregnasi platinum, merupakan bagian integral dari upaya ini untuk menghasilkan bahan bakar bebas sulfur dan meningkatkan efisiensi proses konversi."
+    },
+    "22": {
+        "label_topik": "Pengelolaan Sampah Berbasis Masyarakat dan Ekonomi Sirkular di Kota Makassar",
+        "deskripsi": "Topik ini membahas strategi pengelolaan sampah yang berfokus pada pendekatan berbasis masyarakat dan penerapan ekonomi sirkular di lingkungan perkotaan, khususnya di Kota Makassar. Penelitian dan pengabdian ini mencakup pengembangan model pengelolaan sampah yang berkelanjutan, termasuk inisiatif seperti bank sampah, perubahan perilaku masyarakat dalam pembuangan sampah, serta pemanfaatan teknologi digital untuk mendukung pengelolaan sumber daya dan lingkungan secara efektif."
+    },
+    "23": {
+        "label_topik": "Analisis Kinerja Keuangan dan Risiko di Sektor Perbankan dan Keuangan",
+        "deskripsi": "Topik ini mencakup penelitian dan studi empiris yang berfokus pada kinerja keuangan, risiko, dan pengelolaan dalam sektor perbankan dan keuangan. Ini termasuk analisis rasio keuangan, pengaruh faktor ESG (Environmental, Social, and Governance) terhadap nilai perusahaan, serta pencegahan fraud melalui teknologi finansial dan kontrol internal. Fokus juga diberikan pada perbankan syariah, UMKM, dan pengelolaan risiko di industri keuangan."
+    },
+    "24": {
+        "label_topik": "Intervensi Psikoedukasi untuk Kesehatan Mental Keluarga dan Anak",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat yang berfokus pada intervensi psikoedukasi untuk meningkatkan kesehatan mental dan wellbeing dalam konteks keluarga, terutama bagi anak usia dini. Program-program dalam topik ini melibatkan dukungan psikologis dan strategi pendampingan yang ditujukan untuk keluarga yang menghadapi tantangan kesehatan mental, termasuk upaya untuk mencegah stunting pada balita, menurunkan ide bunuh diri pada remaja, serta meningkatkan kemampuan keluarga dalam merawat anggota dengan gangguan jiwa melalui pendekatan berbasis teori dan asesmen keluarga."
+    },
+    "25": {
+        "label_topik": "Inklusi dan Literasi Keuangan untuk Peningkatan Kinerja Keuangan UMKM dan Individu",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat yang berfokus pada pengelolaan dan peningkatan kinerja keuangan melalui inklusi dan literasi keuangan. Melibatkan peran teknologi keuangan (fintech) dalam mendukung UMKM, khususnya wirausaha perempuan, dan generasi muda dalam pengambilan keputusan finansial, topik ini juga mengeksplorasi keberlanjutan keuangan dan dampak dari literasi keuangan digital."
+    },
+    "26": {
+        "label_topik": "Inovasi Pertanian untuk Ketahanan Pangan",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat yang berfokus pada pengembangan budidaya padi dan kacang dengan pendekatan organik dan inovatif untuk meningkatkan ketahanan pangan. Penelitian meliputi ekspresi genetik padi, integrasi sistem pertanian seperti padi-itik-azola, serta pengujian varietas padi baru yang berumur genjah dan berproduksi tinggi. Tujuannya adalah untuk meningkatkan hasil panen dan mempromosikan pangan fungsional yang bermanfaat bagi petani dan masyarakat luas."
+    },
+    "27": {
+        "label_topik": "Penelitian dan Pengembangan Material dan Struktur Bangunan",
+        "deskripsi": "Topik ini mencakup penelitian tentang sifat mekanik dan penggunaan material dalam konstruksi bangunan, termasuk studi eksperimental dan analisis numerikal tentang struktur baja dan beton, serta pengaruh penggunaan bahan tambahan seperti abu terbang pada bata ringan dan penguatan struktur jembatan terhadap beban siklik."
+    },
+    "28": {
+        "label_topik": "Pengembangan Berkelanjutan Usaha Milik Desa dan Ekowisata",
+        "deskripsi": "Topik ini mencakup strategi dan model pengelolaan usaha milik desa yang berfokus pada pembangunan berkelanjutan, pengentasan kemiskinan, dan pengembangan ekowisata. Penelitian dan pengabdian masyarakat dalam topik ini menyoroti pentingnya modal sosial, manajemen mutu terpadu, dan pemberdayaan masyarakat dalam mendukung keberlanjutan desa, terutama di kawasan konservasi dan daerah penyangga. Studi kasus dan model pertanggungjawaban badan usaha milik desa (BUMDes) dijadikan alat untuk mencapai tujuan pembangunan desa yang berkelanjutan."
+    },
+    "29": {
+        "label_topik": "Peningkatan Kinerja dan Kepuasan Karyawan melalui Dukungan Organisasi dan Pengembangan Kompetensi",
+        "deskripsi": "Topik ini membahas berbagai faktor yang mempengaruhi kinerja dan kepuasan karyawan dalam konteks organisasi. Fokus utama adalah pada bagaimana dukungan organisasi yang dirasakan, pemberdayaan psikologis, dan kepuasan karir dapat meningkatkan keterlibatan karyawan dan niat untuk tetap bekerja. Penelitian ini juga menyoroti pentingnya budaya organisasi dan pengembangan kompetensi dalam meningkatkan motivasi dan kinerja karyawan, dengan perhatian khusus pada perilaku kewargaan organisasi dan ketahanan tenaga kerja dalam menghadapi tantangan pekerjaan."
+    },
+    "30": {
+        "label_topik": "Integrasi Nilai Islam dalam Pendidikan dan Media Pembelajaran",
+        "deskripsi": "Topik ini mengeksplorasi pengaruh dan implementasi nilai-nilai Islam, khususnya dalam konteks Muhammadiyah, terhadap pendidikan dan media pembelajaran. Fokusnya mencakup peran syariah dan agama dalam kurikulum, serta bagaimana nilai-nilai ini membentuk profil pelajar Pancasila. Penelitian juga mencakup kajian tentang branding dan reputasi lembaga pendidikan Islam, serta bagaimana identitas Islam di Indonesia dan di luar negeri dipahami dan direpresentasikan melalui media dan pendidikan."
+    },
+    "31": {
+        "label_topik": "Pengembangan Model Latihan dan Pembelajaran Olahraga Berbasis Teknologi",
+        "deskripsi": "Topik ini mencakup pengembangan dan penerapan model latihan dan pembelajaran keterampilan olahraga untuk berbagai kelompok usia, dengan fokus pada peningkatan aktivitas fisik dan keterampilan melalui pendekatan ergonomis dan teknologi seperti mobile learning dan Internet of Things. Penelitian mencakup teknik jatuhan dalam pencak silat, pembelajaran fisik berbasis teknologi untuk anak-anak, dan perangkat pendukung latihan seperti gelang deteksi detak nadi untuk olahraga bolavoli."
+    },
+    "32": {
+        "label_topik": "Strategi Pencegahan dan Penanganan Kekerasan Seksual terhadap Anak",
+        "deskripsi": "Topik ini berfokus pada upaya pencegahan dan penanganan kekerasan seksual terhadap anak dengan pendekatan berbasis anak. Ini mencakup strategi preventif dan intervensi untuk melindungi anak-anak sebagai korban, serta pemenuhan hak-hak mereka termasuk restitusi. Selain itu, topik ini juga mengeksplorasi sistem informasi dan model perlindungan yang melibatkan aspek hukum, kesehatan, dan pendidikan untuk memastikan kesetaraan gender dan perlindungan yang efektif."
+    },
+    "33": {
+        "label_topik": "Konservasi dan Pengelolaan Ekosistem Mangrove untuk Mitigasi Perubahan Iklim",
+        "deskripsi": "Topik ini mencakup penelitian dan kegiatan pengabdian masyarakat yang berfokus pada ekosistem mangrove sebagai kawasan konservasi penting. Dengan fokus pada aspek ekologi dan biodiversitas, topik ini mengeksplorasi berbagai model pengelolaan dan teknik konservasi yang bertujuan untuk menjaga keberlanjutan hutan mangrove. Selain itu, topik ini menyoroti peran mangrove dalam sekuestrasi karbon dan mitigasi perubahan iklim, termasuk studi kasus dan teknik bioremediasi untuk meningkatkan kualitas ekosistem mangrove."
+    },
+    "34": {
+        "label_topik": "Kepatuhan Pengobatan dan Kualitas Hidup Pasien Tuberkulosis",
+        "deskripsi": "Topik ini berfokus pada hubungan antara kepatuhan pengobatan dan kualitas hidup pasien tuberkulosis, termasuk analisis efektivitas terapi obat, efek samping obat, dan metode prediksi lama pengobatan dengan mempertimbangkan kepatuhan pasien dalam minum obat."
+    },
+    "35": {
+        "label_topik": "Pengembangan Pembelajaran Berbasis Digital untuk Meningkatkan Literasi dan Kompetensi Digital",
+        "deskripsi": "Topik ini berfokus pada pengembangan metode pembelajaran berbasis digital untuk meningkatkan literasi dan kompetensi digital peserta didik. Melalui integrasi teknologi dan sumber daya multimedia dalam kurikulum, seperti emodul dan pembelajaran berbasis autentik, diharapkan dapat meningkatkan keterampilan literasi digital dan pencapaian kompetensi abad 21. Penelitian ini menyoroti pentingnya literasi digital dalam pendidikan modern dan bagaimana pendekatan berbasis literasi dapat mengembangkan pembelajaran yang lebih efektif dan relevan dengan kebutuhan peserta didik."
+    },
+    "36": {
+        "label_topik": "Peningkatan Layanan Kesehatan di Rumah Sakit",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat yang berfokus pada peningkatan layanan kesehatan di rumah sakit. Ini termasuk peran karakteristik individu dan lingkungan kerja dalam kinerja pelayanan, dampaknya terhadap kepuasan pengguna layanan, serta pentingnya transformasi digital dalam meningkatkan akses pengetahuan dan pengambilan keputusan pasien. Selain itu, topik ini juga membahas gaya kepemimpinan dan manajemen rumah sakit untuk mendukung kemandirian kesehatan dan efisiensi pelayanan medis."
+    },
+    "37": {
+        "label_topik": "Manajemen dan Kualitas Hidup Penderita Diabetes",
+        "deskripsi": "Topik ini membahas tentang berbagai aspek yang berkaitan dengan pengelolaan diabetes, termasuk penggunaan insulin, kepatuhan terhadap pengobatan, serta pengaruhnya terhadap kualitas hidup dan kemandirian kesehatan pasien. Penelitian fokus pada hubungan antara durasi menderita diabetes, perilaku manajemen diri, dan potensi komplikasi yang dialami oleh penderita diabetes melitus tipe 2. Selain itu, topik ini juga mengeksplorasi efektivitas model perawatan yang dapat meningkatkan kualitas hidup pasien diabetes."
+    },
+    "38": {
+        "label_topik": "Inovasi Biomaterial untuk Regenerasi dan Rekonstruksi Tulang",
+        "deskripsi": "Topik ini mencakup penelitian dan pengembangan biomaterial berbasis nanoteknologi dan biomolekuler untuk aplikasi regenerasi dan rekonstruksi tulang. Fokusnya adalah pada penggunaan material seperti nanofiber, selulosa, dan protein dari sumber alami seperti cangkang telur untuk menciptakan scaffold atau perancah tulang yang dapat mempercepat proses penyembuhan dan regenerasi tulang, termasuk penggunaan bone graft dan perancah nanobiokeramik dengan osteoinduktivitas tinggi untuk aplikasi pada defek tulang alveolar dan celah lelangit."
+    },
+    "39": {
+        "label_topik": "Pemberdayaan Perempuan dan Kesetaraan Gender Berbasis Sosial dan Budaya",
+        "deskripsi": "Topik ini membahas tentang berbagai inisiatif dan strategi untuk meningkatkan peran serta pemberdayaan perempuan dalam masyarakat, dengan fokus pada kesetaraan gender melalui pendekatan berbasis modal sosial dan budaya. Penelitian dan pengabdian masyarakat dalam topik ini mencakup pemberdayaan ekonomi perempuan, pengarusutamaan gender, dan upaya legislator perempuan dalam memperjuangkan kebijakan yang berorientasi pada kesetaraan gender."
+    },
+    "40": {
+        "label_topik": "Pengembangan dan Aplikasi Komposit untuk Degradasi Limbah Pewarna Organik",
+        "deskripsi": "Topik ini berfokus pada penelitian dan pengembangan material komposit dan biokomposit, termasuk penggunaan nanopartikel dan metal-organic frameworks, untuk aplikasi degradasi dan penjerapan limbah organik, khususnya pewarna. Penelitian ini melibatkan sintesis material komposit inovatif seperti komposit MnOFe3O4 dan ZnORGO, serta aplikasi teknologi fotokatalis dan Fenton katalis untuk meningkatkan efisiensi degradasi zat warna seperti Remazol Brilliant Blue R dalam limbah industri seperti limbah batik."
+    },
+    "41": {
+        "label_topik": "Pemanfaatan Limbah Kelapa Sawit untuk Keberlanjutan Lingkungan",
+        "deskripsi": "Topik ini berfokus pada penelitian dan pengabdian masyarakat yang berkaitan dengan pemanfaatan limbah dari industri kelapa sawit, seperti tandan kosong dan pelepah, untuk berbagai aplikasi yang ramah lingkungan. Penelitian mencakup pengembangan komposit berbasis limbah untuk pemisahan minyak, pencegahan browning dalam eksplan kelapa sawit, serta integrasi serat limbah untuk pengolahan limbah cair. Tujuannya adalah meningkatkan keberlanjutan industri kelapa sawit di Indonesia dengan mengurangi polusi dan memanfaatkan biomassa untuk menghasilkan produk yang lebih bersih dan efisien."
+    },
+    "42": {
+        "label_topik": "Pengaruh Nutrisi dan Pola Makan terhadap Status Gizi Remaja",
+        "deskripsi": "Topik ini membahas tentang hubungan antara pola makan dan status gizi pada remaja, dengan fokus pada dampak makanan dan nutrisi terhadap kesehatan dan berat badan remaja di lingkungan perkotaan. Penelitian mencakup analisis efek nutrisi spesifik seperti moringa oleifera dan royal jelly, serta perbedaan dalam status gizi berdasarkan faktor seperti chronotype dan tempat tinggal (asrama vs non-asrama)."
+    },
+    "43": {
+        "label_topik": "Pengembangan Aplikasi Pembelajaran Interaktif Berbasis Game untuk Meningkatkan Kemampuan Siswa",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat yang berfokus pada pengembangan aplikasi pembelajaran berbasis game dan teknologi mobile untuk meningkatkan kemampuan berpikir dan kognitif siswa. Pendekatan pembelajaran berdiferensiasi dan interaktif digunakan untuk mempromosikan pembelajaran yang efektif, termasuk melalui media permainan yang terintegrasi dengan budaya lokal dan berorientasi pada pengembangan profil pelajar Pancasila."
+    },
+    "44": {
+        "label_topik": "Implementasi Kurikulum Merdeka dan Transformasi Pendidikan di Sekolah Dasar",
+        "deskripsi": "Topik ini membahas penerapan Kurikulum Merdeka di sekolah dasar, dengan fokus pada pengembangan profesionalisme guru melalui program guru penggerak, kolaborasi antar guru, dan inovasi manajemen pendidikan. Penelitian ini mengeksplorasi bagaimana kurikulum baru ini mengubah metode pengajaran dan pembelajaran, serta dampaknya terhadap kompetensi guru dan jaringan kolaboratif di tingkat lokal."
+    },
+    "45": {
+        "label_topik": "Pengelolaan dan Pemantauan Kualitas Air Sungai",
+        "deskripsi": "Topik ini mencakup penelitian dan pengabdian masyarakat terkait dengan pengelolaan, pemantauan, dan optimasi proses pengolahan air sungai untuk memastikan ketersediaan air bersih, melibatkan teknologi seperti elektrokoagulasi dan sistem pemantauan kualitas air, serta pengenalan pola status baku mutu air di daerah aliran sungai dan sekitarnya."
+    },
+    "46": {
+        "label_topik": "Pengembangan Ekosistem Kewirausahaan di Perguruan Tinggi",
+        "deskripsi": "Topik ini berfokus pada upaya untuk meningkatkan niat dan kemampuan berwirausaha di kalangan mahasiswa universitas melalui pengembangan ekosistem kewirausahaan yang komprehensif. Ini mencakup analisis peran pendidikan kewirausahaan, sikap berwirausaha, kompetensi emosional, dan dukungan institusional dalam membangun intensi berwirausaha yang kuat. Penelitian ini menyoroti pentingnya kurikulum pendidikan yang mendukung serta peran universitas dalam memfasilitasi pertumbuhan kewirausahaan di kalangan mahasiswa."
+    },
+    "47": {
+        "label_topik": "Pengembangan Model Edukasi dan Konseling untuk Mengatasi Bullying di Sekolah",
+        "deskripsi": "Topik ini berfokus pada pengembangan model edukasi dan konseling untuk mengatasi perilaku bullying di lingkungan sekolah, khususnya bagi siswa sekolah dasar dan menengah. Melalui pendekatan berbasis nilai budaya dan teknik manajemen diri, penelitian ini bertujuan untuk meningkatkan resiliensi siswa yang menjadi korban bullying, serta mengurangi trauma yang dialami. Model bimbingan dan konseling yang dikembangkan juga mempertimbangkan nilai-nilai lokal dan budaya untuk mempromosikan perilaku positif di kalangan remaja."
+    },
+    "48": {
+        "label_topik": "Peningkatan Kualitas Hidup Pasien Hipertensi Melalui Kepatuhan Pengobatan",
+        "deskripsi": "Topik ini membahas berbagai pendekatan dan intervensi untuk meningkatkan kualitas hidup pasien, khususnya mereka yang menderita hipertensi, dengan menekankan pentingnya kepatuhan terhadap pengobatan. Penelitian dalam topik ini mengeksplorasi penggunaan teknologi, seperti aplikasi berbasis Android, serta pendekatan biopsikososial dan intervensi yang disesuaikan untuk meningkatkan kepatuhan pasien terhadap terapi dan pengobatan, yang pada akhirnya mengurangi kejadian rawat inap berulang dan meningkatkan kualitas hidup secara keseluruhan."
+    },
+    "49": {
+        "label_topik": "Pengembangan Model Pembelajaran Berbasis untuk Meningkatkan Profil Pelajar Pancasila",
+        "deskripsi": "Topik ini berfokus pada pengembangan dan penerapan berbagai model pembelajaran berbasis, seperti resource based learning dan pembelajaran berdiferensiasi, untuk meningkatkan hasil belajar dan ketercapaian profil pelajar Pancasila. Penelitian ini mencakup inovasi dalam metode pembelajaran yang dirancang untuk mendukung implementasi kurikulum merdeka di satuan pendidikan dasar dan menengah."
+    },
+    "50": {
+        "label_topik": "Analisis Kinerja dan Inklusi Keuangan Perbankan Syariah di Indonesia",
+        "deskripsi": "Topik ini membahas berbagai aspek dari perbankan syariah di Indonesia, termasuk analisis perilaku nasabah, faktor-faktor yang mempengaruhi keputusan penggunaan, serta penguatan dewan pengawas syariah. Fokus utama adalah pada pengelolaan keuangan berdasarkan prinsip maqasid syariah, literasi dan inklusi keuangan Islam, serta deteksi dini kecurangan laporan keuangan."
+    },
+    "51": {
+        "label_topik": "Pengembangan dan Karakterisasi Membran Biokomposit untuk Aplikasi Lingkungan dan Kesehatan",
+        "deskripsi": "Topik ini mencakup penelitian terkait sintesis dan karakterisasi membran biokomposit yang memanfaatkan bahan-bahan seperti nanopartikel, nanokristal, dan nanofiber. Fokus utama adalah pada pengembangan membran dengan sifat khusus seperti antifouling dan kemampuan adsorpsi, yang digunakan dalam aplikasi seperti hemodialisis dan pemisahan senyawa aromatik. Penelitian ini juga memanfaatkan limbah kulit dan bahan kimia lainnya untuk meningkatkan keberlanjutan dan efisiensi dalam proses pemisahan dan pengolahan limbah farmasi."
+    },
+    "52": {
+        "label_topik": "Penelitian Genomik dan Epidemiologi Penyakit Menular pada Hewan dan Manusia",
+        "deskripsi": "Topik ini mencakup penelitian tentang infeksi dan penyakit menular yang mempengaruhi manusia dan hewan, dengan fokus pada analisis genomik dan epidemiologi molekuler. Penelitian ini melibatkan pemetaan virus, identifikasi faktor risiko penularan, dan penggunaan metode sequencing untuk menganalisis genom virus. Tujuannya adalah untuk memahami penyebab penyakit, mencegah resistensi vaksin, dan mengembangkan strategi antiinflamasi yang efektif selama pandemi."
+    },
+    "53": {
+        "label_topik": "Pengembangan Pariwisata Halal Berkelanjutan di Indonesia",
+        "deskripsi": "Topik ini membahas tentang pariwisata halal dan upaya pengembangannya secara berkelanjutan di Indonesia, dengan fokus pada kota-kota seperti Surakarta dan Padangsidimpuan. Kajian ini melibatkan perspektif holistik untuk memahami bagaimana wisatawan dapat menikmati wisata yang sesuai dengan prinsip halal, serta bagaimana model pariwisata halal dapat dikembangkan melalui atribut-atribut yang mendukung keberlanjutan."
+    },
+    "54": {
+        "label_topik": "Pengembangan Peternakan Berkelanjutan untuk Ketahanan Pangan dan Ekonomi Rumah Tangga",
+        "deskripsi": "Topik ini berfokus pada pengembangan dan pengelolaan peternakan sapi dan kambing yang berkelanjutan, dengan tujuan meningkatkan ketahanan pangan dan memperkuat ekonomi rumah tangga. Melalui pendekatan seperti kemitraan usaha berbasis wakaf produktif, integrasi agroforestry, dan peningkatan kualitas pakan, penelitian ini bertujuan untuk mendukung swasembada daging dan memperkuat sektor ekonomi hewani di Indonesia."
+    },
+    "55": {
+        "label_topik": "Dampak Media Sosial dan Digitalisasi pada Komunikasi Publik",
+        "deskripsi": "Topik ini mengeksplorasi peran dan pengaruh media sosial serta platform digital dalam membentuk wacana publik, termasuk analisis tren, penyebaran informasi palsu, dan perubahan dalam komunikasi politik dan budaya di era digital."
+    },
+    "56": {
+        "label_topik": "Peningkatan Pertumbuhan dan Efisiensi Pakan Ikan Melalui Inovasi Bahan Pakan",
+        "deskripsi": "Topik ini membahas penelitian dan pengabdian masyarakat terkait pengembangan pakan ikan dengan fokus pada peningkatan pertumbuhan dan efisiensi pakan ikan seperti ikan nila, ikan bandeng, dan ikan patin. Inovasi dilakukan dengan memanfaatkan bahan-bahan seperti tepung kacang, enzim, dan sumber protein dari tumbuhan serta daging. Penelitian ini mencakup analisis substitusi bahan pakan, penggunaan enzim untuk meningkatkan kecernaan dan efisiensi pakan, serta pengaruhnya terhadap pertumbuhan ikan."
+    },
+    "57": {
+        "label_topik": "Implementasi Sertifikasi Halal dan Perilaku Konsumen di Papua Barat",
+        "deskripsi": "Topik ini membahas tentang strategi dan model untuk mempercepat implementasi sertifikasi halal di Papua Barat, dengan fokus pada perilaku konsumen, literasi halal, dan pengembangan usaha mikro. Penelitian berfokus pada bagaimana sertifikasi halal dapat diintegrasikan dalam industri lokal untuk meningkatkan kesadaran dan konsumsi produk halal, serta mendukung keberlanjutan ekonomi melalui program seperti One Subdistrict One Centre Halal Product (OSOP)."
+    }
+}

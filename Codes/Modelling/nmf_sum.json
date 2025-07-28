@@ -1,0 +1,50 @@
+{
+    "0": {
+        "label_topik": "Integrasi AI dalam Pendidikan Agama Islam",
+        "deskripsi": "Topik ini membahas dampak dan tantangan integrasi kecerdasan buatan dalam pendidikan agama Islam, termasuk peningkatan efisiensi pembelajaran, personalisasi materi, dan pengembangan kompetensi keagamaan, serta tantangan terkait privasi, keamanan data, dan kesiapan infrastruktur."
+    },
+    "1": {
+        "label_topik": "Riset dan Inovasi dalam Kecerdasan Buatan untuk Klasifikasi dan Prediksi",
+        "deskripsi": "Topik ini mencakup penelitian dan inovasi dalam kecerdasan buatan yang berfokus pada penerapan model pembelajaran mesin untuk klasifikasi dan prediksi, termasuk penggunaan model deep learning seperti ResNet50 dan YOLOv5 untuk pengenalan citra dan deteksi objek, serta algoritma Naïve Bayes untuk klasifikasi data. Penelitian ini menyoroti pentingnya akurasi dan efektivitas metode dalam berbagai aplikasi, mulai dari pengenalan objek dalam gambar hingga klasifikasi jenis jamur berdasarkan dataset."
+    },
+    "2": {
+        "label_topik": "Inovasi dan Transformasi Digital dalam Ekonomi dan Bisnis",
+        "deskripsi": "Topik ini membahas peran dan dampak teknologi digital dalam mengubah lanskap ekonomi dan bisnis modern. Transformasi digital di berbagai sektor menghadirkan peluang untuk meningkatkan efisiensi, inovasi, dan pengalaman pengguna, meskipun juga menghadapi tantangan seperti etika dan perlindungan data. Penelitian dalam topik ini mengeksplorasi bagaimana teknologi seperti AI, blockchain, dan IoT dapat meningkatkan efisiensi operasional, keamanan transaksi, dan daya saing bisnis. Selain itu, studi ini menyelidiki peran ekonomi digital dalam perdagangan internasional dan bagaimana perusahaan dapat beradaptasi dengan perubahan pasar melalui adopsi teknologi baru seperti cloud computing. Fokus utama adalah pada strategi dan kebijakan yang mendukung transformasi digital untuk memaksimalkan potensi dan mengatasi tantangan yang ada."
+    },
+    "3": {
+        "label_topik": "Penggunaan Finite State Machine dalam Pengembangan NPC Game",
+        "deskripsi": "Topik ini membahas penerapan algoritma Finite State Machine (FSM) dalam pengembangan karakter non-playable character (NPC) pada berbagai jenis permainan, termasuk game adventure, shooter, dan role-playing games (RPG). FSM digunakan untuk mengatur perilaku NPC agar lebih dinamis dan menyerupai perilaku manusia, meningkatkan interaktivitas dan daya tarik permainan. Studi kasus mencakup game seperti 'Let’s Escape', 'Lost Animal Borneo', dan game 2D shooter, yang menunjukkan bagaimana FSM dapat meningkatkan pengalaman bermain dengan membuat NPC lebih responsif terhadap aksi pemain."
+    },
+    "4": {
+        "label_topik": "Pengaruh dan Pemanfaatan ChatGPT dalam Pendidikan Tinggi",
+        "deskripsi": "Topik ini membahas bagaimana ChatGPT digunakan oleh mahasiswa dan dosen dalam konteks pendidikan tinggi untuk meningkatkan produktivitas, menyusun tugas akademik, dan mendukung proses pembelajaran. Penelitian menunjukkan bahwa ChatGPT dapat meningkatkan efisiensi dan kualitas tugas akademik serta mendukung pembelajaran matematika, namun juga menimbulkan kekhawatiran terkait ketergantungan dan penurunan kemampuan berpikir kritis. Penggunaan ChatGPT di kalangan akademisi di Indonesia juga menunjukkan tingginya adopsi teknologi ini, dengan pertimbangan etika penggunaannya dalam pendidikan."
+    },
+    "5": {
+        "label_topik": "Sistem Pakar untuk Diagnosa Penyakit dengan Metode Forward Chaining",
+        "deskripsi": "Topik ini mencakup literatur ilmiah tentang pengembangan dan implementasi sistem pakar berbasis metode forward chaining untuk mendiagnosa berbagai penyakit seperti telinga, ISPA, dan mata. Sistem ini dirancang untuk memudahkan pasien dalam mengenali gejala awal dan mendapatkan diagnosis awal yang akurat, serta membantu dokter dalam meningkatkan akurasi dan efisiensi perawatan medis dengan menggunakan basis data pengetahuan medis yang ada."
+    },
+    "6": {
+        "label_topik": "Penggunaan Kecerdasan Buatan dalam Pendidikan dan Pembelajaran",
+        "deskripsi": "Topik ini membahas integrasi teknologi kecerdasan buatan dalam proses pendidikan dan pembelajaran, dengan fokus pada penerapan AI dalam meningkatkan pemahaman dan keterampilan siswa melalui alat dan metode pembelajaran yang inovatif. Studi-studi dalam topik ini mengeksplorasi bagaimana AI dapat digunakan untuk mendukung proses belajar mengajar, baik dalam konteks pembelajaran formal di sekolah maupun dalam pembelajaran bahasa dan ilmu lainnya. Selain itu, topik ini juga mempertimbangkan aspek etika dan filosofi dalam penerapan AI dalam pendidikan, seperti yang diuraikan dalam filsafat pendidikan Ki Hajar Dewantara."
+    },
+    "7": {
+        "label_topik": "Implikasi Hukum dan Perlindungan Hak Cipta dalam Inovasi Kecerdasan Buatan di Indonesia",
+        "deskripsi": "Topik ini membahas urgensi pengaturan hukum terkait kecerdasan buatan di Indonesia, terutama dalam konteks hak cipta dan perlindungan hukum. Fokusnya adalah pada bagaimana hukum hak cipta Indonesia dapat mengakomodasi entitas baru yang dihasilkan oleh kecerdasan buatan serta tantangan hukum pidana yang muncul dari penggunaannya. Diskusi juga mencakup perlindungan hukum bagi karya yang dihasilkan melalui kecerdasan buatan dan bagaimana regulasi dapat diperbarui untuk menyesuaikan dengan perkembangan teknologi. Selain itu, topik ini mengeksplorasi peran filsafat hukum dalam pendidikan hukum di era kecerdasan buatan, menekankan pentingnya keadilan, etika, dan moral dalam penegakan hukum yang melibatkan teknologi baru ini."
+    },
+    "8": {
+        "label_topik": "Pengembangan Media Pembelajaran Berbasis Kecerdasan Buatan di Sekolah",
+        "deskripsi": "Topik ini membahas tentang pelatihan dan pengembangan media pembelajaran berbasis kecerdasan buatan (AI) untuk meningkatkan kualitas proses belajar mengajar di sekolah. Kegiatan pengabdian masyarakat ini dilakukan dengan melibatkan guru dan siswa, bertujuan untuk memperkenalkan dan melatih penggunaan teknologi AI seperti ChatGPT dalam pembuatan materi pembelajaran. Pelatihan ini diharapkan dapat meningkatkan keterampilan literasi digital, kemampuan merancang media pembelajaran, serta pemahaman dan partisipasi aktif dalam kegiatan belajar. Evaluasi menunjukkan peningkatan pemahaman dan keterampilan peserta, meskipun terdapat tantangan seperti keterbatasan waktu praktik dan variasi tingkat literasi digital. Implikasi dari kegiatan ini adalah perlunya pelatihan lanjutan untuk mendukung penerapan teknologi yang berkelanjutan dalam dunia pendidikan."
+    },
+    "9": {
+        "label_topik": "Pengembangan Chatbot Berbasis Natural Language Processing untuk Layanan Informasi",
+        "deskripsi": "Topik ini membahas implementasi dan pengembangan chatbot berbasis natural language processing (NLP) yang digunakan untuk meningkatkan layanan informasi di berbagai sektor seperti pariwisata, pendidikan, dan administrasi universitas. Chatbot ini bertujuan untuk memberikan layanan informasi secara real-time, meningkatkan efisiensi, dan mempermudah akses informasi bagi pengguna dengan menggunakan bahasa alami. Studi kasus yang dibahas meliputi pengembangan chatbot untuk layanan informasi wisata di Tangerang Raya, layanan akademik di FIKTI UMSU, dan layanan informasi mahasiswa di Politeknik Negeri Malang dan Universitas Bumigora. Pengujian performa chatbot menunjukkan hasil yang cukup baik dalam menjawab pertanyaan pengguna secara otomatis dan efisien."
+    },
+    "10": {
+        "label_topik": "Dampak Pandemi COVID-19 terhadap Kualitas Audit dan Penggunaan Teknologi di Perusahaan",
+        "deskripsi": "Topik ini membahas bagaimana pandemi COVID-19 mempengaruhi kualitas audit di perusahaan, termasuk penurunan biaya audit, tantangan penilaian going concern, dan kehilangan staf auditor. Selain itu, terdapat analisis tentang peran teknologi seperti blockchain dan keamanan jaringan dalam meningkatkan kualitas audit serta pentingnya peningkatan kompetensi auditor selama pandemi. Penelitian ini menggunakan metode kualitatif dan kajian literatur untuk menganalisis dampak pandemi terhadap audit fee, prosedur audit, dan sumber daya auditor di perusahaan."
+    },
+    "11": {
+        "label_topik": "Transformasi Masyarakat di Era Society 5.0 dan Revolusi Industri 4.0",
+        "deskripsi": "Topik ini membahas transformasi masyarakat menuju era Society 5.0 yang berintegrasi dengan Revolusi Industri 4.0. Fokus utama adalah pada dampak teknologi terhadap kehidupan manusia dan masyarakat, termasuk peran teknologi pintar, AI, IoT, dan robotika dalam meningkatkan kualitas hidup, produktivitas, dan efisiensi. Selain itu, topik ini juga mengeksplorasi tantangan dan strategi dalam pendidikan, profesionalisme, dan pengembangan infrastruktur digital untuk mempersiapkan masyarakat menghadapi perubahan besar ini."
+    }
+}
